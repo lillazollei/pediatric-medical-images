@@ -1,2 +1,2 @@
-# pediatric-medical-images
-keeping track of publicly available pediatric brain MRI imaging datasets
+# Pediatric-Medical-Imaging-Datasets
+Keeping track of publicly available pediatric/fetal brain MRI imaging datasets
