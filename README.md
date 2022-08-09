@@ -1,7 +1,7 @@
 # Pediatric Medical Imaging Datasets
 I am keeping track of publicly available pediatric/fetal brain MRI imaging datasets to help researchers and students utilize them for meaningful projects.
 
-Please note that these sets are ordered based on ascending age and that this page is meant to be continuously updated over time as new sets arise :) 
+Please note that these sets are ordered based on ascending starting age and that this page is meant to be continuously updated over time as new sets arise :) 
 
 Please do not hesitate to reach out for any feedback or questions! 
 
@@ -108,6 +108,27 @@ A59	babyconnectomeproject.org
 7 Days - 14 Years, Longitudinal & Multimodal MRI
 
 https://www.sciencedirect.com/science/article/abs/pii/S105381190500710X?via%3Dihub
+
+
+**iSeg-2017:**
+
+6 Months, T1 and T2
+
+https://iseg2017.web.unc.edu/
+
+
+**iSeg-2019:**
+
+6 Months, T1 and T2
+
+https://iseg2019.web.unc.edu/
+
+
+**INDI - UW Madison:**
+
+0.8-4.5 Years, T1, Resting State, Diffusion Weighted
+
+http://fcon_1000.projects.nitrc.org/indi/PRIME/uwmadison.html
   
 # Mixed Age Groups Imaging List
 # Research Paper/Publications-Based Imaging List 
