@@ -15,7 +15,14 @@ Fetal - Newborn, Structural MRI
 2nd Release: http://www.developingconnectome.org/second-data-release/
   
 3rd Release: http://www.developingconnectome.org/data-release/third-data-release/
-  
+
+Boston (Resource):
+
+Fetal, MRI
+
+http://fetalmri.org/index.html?B30
+
+
   
 # Mixed Age Groups Imaging List
 # Research Paper/Publications-Based Imaging List 
