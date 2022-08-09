@@ -52,9 +52,41 @@ Premature Infants (Around 33 Weeks), T1
 
 **Brain Development 1 (Atlas):**
 
-Fetal, 23-37 Weeks, T2, Probability maps
+Fetal - 23-37 Weeks, T2, Probability maps
 
 https://brain-development.org/brain-atlases/fetal-brain-atlases/
+
+
+**HBCD:**
+
+Fetal - 10 Years, MRI
+
+https://heal.nih.gov/research/infants-and-children/healthy-brain
+
+
+**Brain Development (Cont):**
+
+T1 and T2 Images
+
+Brain Development 3 (28-44 Weeks): https://brain-development.org/brain-atlases/neonatal-brain-atlases/neonatal-brain-atlas-serag/
+
+Brain Development 4 (Term-Born and Preterm Neonates): https://brain-development.org/brain-atlases/neonatal-brain-atlases/neonatal-brain-atlas-gousias/
+
+Brain Development 5 (37-40 Weeks): https://brain-development.org/brain-atlases/neonatal-brain-atlases/neonatal-brain-atlas-makropoulos/
+
+
+**USC - 1:**
+
+Neonatal, MRI for 3T
+
+https://www.frontiersin.org/articles/10.3389/fnins.2021.650082/full
+
+
+**Nature Communications:**
+
+Neonatal, Resting State and Diffusion MRI
+
+https://www.nature.com/articles/s41467-021-22960-0
   
 # Mixed Age Groups Imaging List
 # Research Paper/Publications-Based Imaging List 
