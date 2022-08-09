@@ -16,13 +16,45 @@ Fetal - Newborn, Structural MRI
   
 3rd Release: http://www.developingconnectome.org/data-release/third-data-release/
 
-Boston (Resource):
+
+**Boston (Resource):**
 
 Fetal, MRI
 
 http://fetalmri.org/index.html?B30
 
 
+**FeTA:**
+
+Fetal, Reconstructed MRI & T2
+
+https://www.synapse.org/#!Synapse:syn25649159/wiki/610007
+
+
+**Synapse:**
+
+Fetal - Newborn, Srr, Mask, Parcallation, Landmarks
+
+https://www.synapse.org/#!Synapse:syn25887675/wiki/611424
+
+
+**IMAGINE (Resource):**
+
+Fetal, T2, DTI
+
+https://imagine.med.harvard.edu/fetal-brain-mri-atlas-and-segmentation
+
+
+**Boston Children's:**
+
+Premature Infants (Around 33 Weeks), T1
+
+
+**Brain Development 1 (Atlas):**
+
+Fetal, 23-37 Weeks, T2, Probability maps
+
+https://brain-development.org/brain-atlases/fetal-brain-atlases/
   
 # Mixed Age Groups Imaging List
 # Research Paper/Publications-Based Imaging List 
