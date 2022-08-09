@@ -6,7 +6,9 @@ Please note that these sets are ordered based on ascending age and that this pag
 Please do not hesitate to reach out for any feedback or questions! 
 
 # Main Pediatric Medical Imaging List
-dHCP:
+**dHCP:**
+
+Fetal - Newborn, Structural MRI 
 
 1st Release: http://www.developingconnectome.org/project/data-release-user-guide/
 
