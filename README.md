@@ -208,48 +208,66 @@ https://www.researchgate.net/publication/350601331_A_longitudinal_neuroimaging_d
 https://openneuro.org/datasets/ds001894/versions/1.4.1
 
 
-HCP-D:
+**HCP-D:**
 
 5-21 Years, Structural/Functional/Diffusion/Perfusion Imaging
 
-HBNB:
+https://www.humanconnectome.org/study/hcp-lifespan-development
+
+**HBNB:**
 
 5-21 Years, T1, T2, DWI, Resting-State
 
+http://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/index.html
 
-ABIDE II:
+
+**ABIDE II:**
 
 6-64 Years, Resting-State & Structural fMRI
 
-
-IBIS:
-
-6-24 Years, Multi-Site MRI 
+http://fcon_1000.projects.nitrc.org/indi/abide/abide_II.html
 
 
-NKI:
+**IBIS:**
+
+6-24 Years, Multi-Site MRI
+
+https://www.sciencedirect.com/science/article/pii/S2213158220303880?via%3Dihub
+
+
+**NKI:**
 
 6-85 Years, Advanced Neuroimaging (No Other Info)
 
+https://pubmed.ncbi.nlm.nih.gov/23087608/
 
-CANDI:
+
+**CANDI:**
 
 7-13 Years, Structural MRI, Anatomic Segmentations 
 
+https://escholarship.umassmed.edu/cs_schizbull08/
 
-IBSR:
+
+**IBSR:**
 
 7+ Years, T1 in Talairach Orientation
 
+https://www.nitrc.org/projects/ibsr
 
-INDI-AM:
+
+**INDI-AM:**
 
 7-8 Years, T1, T2, QSM
 
+http://fcon_1000.projects.nitrc.org/indi/PRIME/amu.html
 
-ADHD-200:
+
+[ADHD-200:](https://pubmed.ncbi.nlm.nih.gov/27423255/)
 
 7-27 Years, fMRI 
+
+https://pubmed.ncbi.nlm.nih.gov/27423255/
 
 
 ABIDE I:
