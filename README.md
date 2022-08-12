@@ -17,6 +17,11 @@ Fetal - Newborn, Structural MRI
 **[3rd Release](http://www.developingconnectome.org/data-release/third-data-release/)**
 
 
+[**Synapse:**](https://www.synapse.org/#!Synapse:syn25887675/wiki/611424)
+
+Fetal - Newborn, Srr, Mask, Parcallation, Landmarks
+
+
 [**Boston (Resource):**](http://fetalmri.org/index.html?B30)
 
 Fetal, MRI
@@ -30,11 +35,6 @@ Fetal, Reconstructed MRI & T2
 [**IMAGINE (Resource):**](https://imagine.med.harvard.edu/fetal-brain-mri-atlas-and-segmentation)
 
 Fetal, T2, DTI
-
-
-[**Synapse:**](https://www.synapse.org/#!Synapse:syn25887675/wiki/611424)
-
-Fetal - Newborn, Srr, Mask, Parcallation, Landmarks
 
 
 [**Boston Children's:**](https://www.frontiersin.org/articles/10.3389/fped.2017.00159/full)
@@ -98,14 +98,14 @@ Neonatal, Resting State and Diffusion MRI
 6 Months, T1 and T2
 
 
-[**INDI - UW Madison:**](http://fcon_1000.projects.nitrc.org/indi/PRIME/uwmadison.html)
-
-0.8-4.5 Years, T1, Resting State, Diffusion Weighted
-
-
 [**Brain Development 2 (Atlas):**](https://brain-development.org/brain-atlases/neonatal-brain-atlases/)
 
 29-44 Weeks, T2
+
+
+[**INDI - UW Madison:**](http://fcon_1000.projects.nitrc.org/indi/PRIME/uwmadison.html)
+
+0.8-4.5 Years, T1, Resting State, Diffusion Weighted
 
 
 [**Brain Development 6 (Atlas):**](https://brain-development.org/brain-atlases/pediatric-brain-atlases/)
@@ -148,14 +148,14 @@ Neonatal, Resting State and Diffusion MRI
 4.5-18.5 Years, T1 Applied to T2
 
 
-[**Vanderbilt 2:**](https://www.researchgate.net/publication/350601331_A_longitudinal_neuroimaging_dataset_on_language_processing_in_children_ages_5_7_and_9_years_old)
-
-5.5-6.5, 7-8, 8.5-10 Years, T1 & Diffusion Tensor Imaging
-
-
 [**OpenNeuro 2:**](https://openneuro.org/datasets/ds001894/versions/1.4.1)
 
 5, 7, 9 Years, T1 & Diffusion Tensor Imaging
+
+
+[**Vanderbilt 2:**](https://www.researchgate.net/publication/350601331_A_longitudinal_neuroimaging_dataset_on_language_processing_in_children_ages_5_7_and_9_years_old)
+
+5.5-6.5, 7-8, 8.5-10 Years, T1 & Diffusion Tensor Imaging
 
 
 [**HCP-D:**](https://www.humanconnectome.org/study/hcp-lifespan-development)
