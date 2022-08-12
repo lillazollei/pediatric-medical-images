@@ -10,11 +10,11 @@ Please do not hesitate to reach out for any feedback or questions!
 
 Fetal - Newborn, Structural MRI 
 
-1st Release: http://www.developingconnectome.org/project/data-release-user-guide/
+**[1st Release](http://www.developingconnectome.org/project/data-release-user-guide/)**
 
-2nd Release: http://www.developingconnectome.org/second-data-release/
+**[2nd Release](http://www.developingconnectome.org/second-data-release/)**
   
-3rd Release: http://www.developingconnectome.org/data-release/third-data-release/
+**[3rd Release](http://www.developingconnectome.org/data-release/third-data-release/)**
 
 
 [**Boston (Resource):**](http://fetalmri.org/index.html?B30)
@@ -27,14 +27,14 @@ Fetal, MRI
 Fetal, Reconstructed MRI & T2
 
 
-[**Synapse:**](https://www.synapse.org/#!Synapse:syn25887675/wiki/611424)
-
-Fetal - Newborn, Srr, Mask, Parcallation, Landmarks
-
-
 [**IMAGINE (Resource):**](https://imagine.med.harvard.edu/fetal-brain-mri-atlas-and-segmentation)
 
 Fetal, T2, DTI
+
+
+[**Synapse:**](https://www.synapse.org/#!Synapse:syn25887675/wiki/611424)
+
+Fetal - Newborn, Srr, Mask, Parcallation, Landmarks
 
 
 [**Boston Children's:**](https://www.frontiersin.org/articles/10.3389/fped.2017.00159/full)
@@ -56,11 +56,11 @@ Fetal - 10 Years, MRI
 
 T1 and T2 Images
 
-Brain Development 3 (28-44 Weeks): https://brain-development.org/brain-atlases/neonatal-brain-atlases/neonatal-brain-atlas-serag/
+**[Brain Development 3 (28-44 Weeks)](https://brain-development.org/brain-atlases/neonatal-brain-atlases/neonatal-brain-atlas-serag/)**
 
-Brain Development 4 (Term-Born and Preterm Neonates): https://brain-development.org/brain-atlases/neonatal-brain-atlases/neonatal-brain-atlas-gousias/
+**[Brain Development 4 (Term-Born and Preterm Neonates)](https://brain-development.org/brain-atlases/neonatal-brain-atlases/neonatal-brain-atlas-gousias/)**
 
-Brain Development 5 (37-40 Weeks): https://brain-development.org/brain-atlases/neonatal-brain-atlases/neonatal-brain-atlas-makropoulos/
+**[Brain Development 5 (37-40 Weeks)](https://brain-development.org/brain-atlases/neonatal-brain-atlases/neonatal-brain-atlas-makropoulos/)**
 
 
 [**USC - 1:**](https://www.frontiersin.org/articles/10.3389/fnins.2021.650082/full)
@@ -168,24 +168,19 @@ Neonatal, Resting State and Diffusion MRI
 5-21 Years, T1, T2, DWI, Resting-State
 
 
-[**ABIDE II:**](http://fcon_1000.projects.nitrc.org/indi/abide/abide_II.html)
-
-6-64 Years, Resting-State & Structural fMRI
-
-
 [**IBIS:**](https://www.sciencedirect.com/science/article/pii/S2213158220303880?via%3Dihub)
 
 6-24 Years, Multi-Site MRI
 
 
+[**ABIDE II:**](http://fcon_1000.projects.nitrc.org/indi/abide/abide_II.html)
+
+6-64 Years, Resting-State & Structural fMRI
+
+
 [**NKI:**](https://pubmed.ncbi.nlm.nih.gov/23087608/)
 
 6-85 Years, Advanced Neuroimaging (No Other Info)
-
-
-[**CANDI:**](https://escholarship.umassmed.edu/cs_schizbull08/)
-
-7-13 Years, Structural MRI, Anatomic Segmentations 
 
 
 [**IBSR:**](https://www.nitrc.org/projects/ibsr)
@@ -198,57 +193,62 @@ Neonatal, Resting State and Diffusion MRI
 7-8 Years, T1, T2, QSM
 
 
+[**CANDI:**](https://escholarship.umassmed.edu/cs_schizbull08/)
+
+7-13 Years, Structural MRI, Anatomic Segmentations 
+
+
 **[ADHD-200:](https://pubmed.ncbi.nlm.nih.gov/27423255/)**
 
 7-27 Years, fMRI 
 
 
-ABIDE I:
+[**ABIDE I:**](http://fcon_1000.projects.nitrc.org/indi/abide/abide_I.html)
 
 7-64 Years (Median 14 Years), Resting-State fMRI, Structural MRI 
 
 
-Philadelphia:
-
-8-21 Years, Multimodal and Task fMRI
-
-
-OpenNeuro 3:
-
-8-25 Years, MRI
-
-
-OpenNeuro 4:
+**[OpenNeuro 4:](https://openneuro.org/datasets/ds003126/versions/1.2.0)**
 
 8-13 Years, T1
 
 
-ABCD:
+**[Philadelphia:](https://pubmed.ncbi.nlm.nih.gov/25840117/)**
+
+8-21 Years, Multimodal and Task fMRI
+
+
+**[OpenNeuro 3:](https://openneuro.org/datasets/ds003499/versions/1.0.1)**
+
+8-25 Years, MRI
+
+
+**[ABCD:](https://abcdstudy.org/about/)**
 
 9-10 Years, T1
 
 
-Dev-CoG:
+**[Dev-CoG:](http://devcog.mrn.org/)**
 
 9-14 Years, Multimodal/Task/Longitudinal fMRI, Behaviour and Genetics Analyses 
 
 
-OpenNeuro 1:
+**[OpenNeuro 1:](https://openneuro.org/datasets/ds001894/versions/1.2.2)**
 
 10.5 Years, T1, T2, DTI 
 
 
-SchizConnect:
+**[SchizConnect:](https://pubmed.ncbi.nlm.nih.gov/24223551/)**
 
 14-67 Years, Multimodal/Multi-Site/Task fMRI
 
 
-GSP:
+**[GSP:](https://www.nature.com/articles/sdata201531)**
 
 18-35 Years, T1, Behaviour Analysis 
 
 
-NARPS:
+**[NARPS:](https://www.nature.com/articles/s41597-019-0113-7)**
 
 18-37 Years, T1 
   
