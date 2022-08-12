@@ -152,6 +152,154 @@ https://brain-development.org/brain-atlases/pediatric-brain-atlases/
 https://www.developmentalneuroimaginglab.ca/
 
 
+**Calgary Preschool:**
+
+2-8 Years, fMRI & DIffusion Tensor Imaging
+
+https://osf.io/axz5r/
+
+
+**OpenNeuro:**
+
+3-12 Years, MRI
+
+https://openneuro.org/datasets/ds000228/versions/1.1.0
+
+
+**PING:**
+
+3-20 Years, Multimodal Imaging
+
+http://pingstudy.ucsd.edu/
+
+
+**McGill NIH:**
+
+4 Years, MRI, Diffusion Tensor Imaging, MRS
+
+https://www.bic.mni.mcgill.ca/nihpd_info/info2/index.html
+
+
+**HBM:**
+
+4-13 Years, Diffusion Weighted Scans
+
+https://brainanddevelopment.nl/wp-content/uploads/2019/08/Wierenga_et_al_2017_Longitudinal_BrainNetwork_Children.pdf
+
+
+**NIST:**
+
+4.5-18.5 Years, T1 Applied to T2
+
+http://nist.mni.mcgill.ca/pediatric-atlases-4-5-18-5y/
+
+
+**Vanderbilt 2:**
+
+5.5-6.5, 7-8, 8.5-10 Years, T1 & Diffusion Tensor Imaging
+
+https://www.researchgate.net/publication/350601331_A_longitudinal_neuroimaging_dataset_on_language_processing_in_children_ages_5_7_and_9_years_old
+
+
+**OpenNeuro 2:**
+
+5, 7, 9 Years, T1 & Diffusion Tensor Imaging
+
+https://openneuro.org/datasets/ds001894/versions/1.4.1
+
+
+HCP-D:
+
+5-21 Years, Structural/Functional/Diffusion/Perfusion Imaging
+
+HBNB:
+
+5-21 Years, T1, T2, DWI, Resting-State
+
+
+ABIDE II:
+
+6-64 Years, Resting-State & Structural fMRI
+
+
+IBIS:
+
+6-24 Years, Multi-Site MRI 
+
+
+NKI:
+
+6-85 Years, Advanced Neuroimaging (No Other Info)
+
+
+CANDI:
+
+7-13 Years, Structural MRI, Anatomic Segmentations 
+
+
+IBSR:
+
+7+ Years, T1 in Talairach Orientation
+
+
+INDI-AM:
+
+7-8 Years, T1, T2, QSM
+
+
+ADHD-200:
+
+7-27 Years, fMRI 
+
+
+ABIDE I:
+
+7-64 Years (Median 14 Years), Resting-State fMRI, Structural MRI 
+
+
+Philadelphia:
+
+8-21 Years, Multimodal and Task fMRI
+
+
+OpenNeuro 3:
+
+8-25 Years, MRI
+
+
+OpenNeuro 4:
+
+8-13 Years, T1
+
+
+ABCD:
+
+9-10 Years, T1
+
+
+Dev-CoG:
+
+9-14 Years, Multimodal/Task/Longitudinal fMRI, Behaviour and Genetics Analyses 
+
+
+OpenNeuro 1:
+
+10.5 Years, T1, T2, DTI 
+
+
+SchizConnect:
+
+14-67 Years, Multimodal/Multi-Site/Task fMRI
+
+
+GSP:
+
+18-35 Years, T1, Behaviour Analysis 
+
+
+NARPS:
+
+18-37 Years, T1 
   
 # Mixed Age Groups Imaging List
 # Research Paper/Publications-Based Imaging List 
