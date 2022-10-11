@@ -152,6 +152,8 @@ Neonatal, Resting State and Diffusion MRI
 
 5, 7, 9 Years, T1 & Diffusion Tensor Imaging
 
+Goes in line with this article: https://www.nature.com/articles/s41597-021-01106-3
+
 
 [**Vanderbilt 2:**](https://www.researchgate.net/publication/350601331_A_longitudinal_neuroimaging_dataset_on_language_processing_in_children_ages_5_7_and_9_years_old)
 
@@ -344,6 +346,11 @@ Wide Range of Age Groups, MRI & Radiology Report
 **[Hu:](https://www.sciencedirect.com/science/article/abs/pii/S1053811913001596)**
 
 4-18 Years, MRI
+
+
+**[NIST:](https://www.sciencedirect.com/science/article/abs/pii/S1053811913001596](https://nist.mni.mcgill.ca/pediatric-atlases-4-5-18-5y/)**
+
+4.5-18.5 Years, T1w, Atlas 
 
 
 **[Krogsrud:](https://onlinelibrary.wiley.com/doi/epdf/10.1002/hbm.22576)**
