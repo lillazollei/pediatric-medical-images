@@ -1,274 +1,225 @@
 # Pediatric Medical Imaging Datasets
-I am keeping track of publicly available pediatric/fetal brain MRI imaging datasets to help researchers and students utilize them for meaningful projects.
+This page is to keep track of publicly available pediatric/fetal brain MRI imaging datasets. It is meant to be continuously updated over time as new sets arise :)
 
-Please note that these sets are ordered based on ascending starting age and that this page is meant to be continuously updated over time as new sets arise :) 
+<!-- The below datasets are currently organized in an ascending order based on starting/min age in the cohort.  --> 
 
 Please do not hesitate to reach out for any feedback or questions! 
 
-# Main Pediatric Medical Imaging List
-**dHCP:**
+## Main Fetal / Pediatric Medical Imaging List
 
-Fetal - Newborn, Structural MRI 
+### [dHCP 3rd release](http://www.developingconnectome.org/data-release/third-data-release/)
+<!-- **[1st Release](http://www.developingconnectome.org/project/data-release-user-guide/)** -->
+<!-- **[2nd Release](http://www.developingconnectome.org/second-data-release/)** -->
+885+ postnatal brain MRI (T1w,T2w,dMRI and rsfMRI) of infants; processed with own pipeline    
+**Keywords**: longitudinal, newborn, large, premature, postnatal, T1w, T2w, dMRI, rsfMRI, labels
 
-**[1st Release](http://www.developingconnectome.org/project/data-release-user-guide/)**
+### [FeTA 2.1](https://www.synapse.org/#!Synapse:syn25649159/wiki/610007)
+MRI data of 80 subjects from 2 sources, labels are available on a subset   
+**Keywords**: fetal, MRI, BIDS, T2w, labels
 
-**[2nd Release](http://www.developingconnectome.org/second-data-release/)**
-  
-**[3rd Release](http://www.developingconnectome.org/data-release/third-data-release/)**
-
-
-[**Synapse:**](https://www.synapse.org/#!Synapse:syn25887675/wiki/611424)
-
-Fetal - Newborn, Srr, Mask, Parcallation, Landmarks
-
-
-[**Boston (Resource):**](http://fetalmri.org/index.html?B30)
-
-Fetal, MRI
+### [HBCD](https://heal.nih.gov/research/infants-and-children/healthy-brain)
+longitudinal infant data that will be collected over the first ten years of life   
+**Keywords**: COMING
 
 
-[**FeTA:**](https://www.synapse.org/#!Synapse:syn25649159/wiki/610007)
+## Main Fetal /Pediatric Atlas List
 
-Fetal, Reconstructed MRI & T2
+### [Synapse](https://www.synapse.org/#!Synapse:syn25887675/wiki/611424)
+spatio-temporal fetal brain atlas with 15 ages buckets (21-35wks): mean, mask, labels       
+**Keywords**: fetal, atlas, labels 
 
+### [IMAGINE Fetal Brain Atlas](http://crl.med.harvard.edu/research/fetal_brain_atlas/)
+fetal brain atlases representing 22 to 38 weeks of gestation from N = 67 scans   
+**Keywords**: fetal, atlas, labels, dMRI, MRI, T2w
 
-[**IMAGINE (Resource):**](https://imagine.med.harvard.edu/fetal-brain-mri-atlas-and-segmentation)
+### [Imperial Fetal Brain Development](https://brain-development.org/brain-atlases/fetal-brain-atlases/)
+spatiotemporal atlas representing 23 to 37 weeks of gestation from N = 80 subjects   
+**Keywords**: fetal, atlas, T2w, probability
 
-Fetal, T2, DTI
+### [Imperial Brain Development](https://brain-development.org/brain-atlases/neonatal-brain-atlases/neonatal-brain-atlas-serag/)
+spatiotemporal atlas representing 28 to 44weeks post-menstrual age at time of scan from N = 204 premature subjects 
+**Keywords**: postnatal, premature, atlas, T1w, T2w
 
+### [Imperial Brain Development](https://brain-development.org/brain-atlases/neonatal-brain-atlases/neonatal-brain-atlas-gousias/)
+atlases for neonates (20 brain atlases of term-born and preterm infants, of 50 regions each, together with their related MRIs)
+**Keywords**: postnatal, newborn, preterm, fullterm, atlas, lables
 
+### [Imperial Brain Development](https://brain-development.org/brain-atlases/neonatal-brain-atlases/neonatal-brain-atlas-makropoulos/)
+spatio-temporal structural atlas for the neonatal brain with 87 labelled structures of the developing brain; N = 420 brain MRI images; 37-40 weeks age-at-scan
+**Keywords**: postnatal, newborn, atlas, labels, 4D
+
+<!-- ### [Fetal Atlas Online Viewer](http://fetalmri.org/index.html?B30) -->
+<!-- What data set is used? -->
+<!-- **Keywords**: fetal, viewer -->
+
+<!-- ORGANIZE FROM BELOW --> 
+
+<!-- LZ: This is resting state data. Is the individual data available? Is there structural available? >
 [**Boston Children's:**](https://www.frontiersin.org/articles/10.3389/fped.2017.00159/full)
-
 Premature Infants (Around 33 Weeks), T1
 
 
-[**Brain Development 1 (Atlas):**](https://brain-development.org/brain-atlases/fetal-brain-atlases/)
-
-Fetal - 23-37 Weeks, T2, Probability maps
-
-
-[**HBCD:**](https://heal.nih.gov/research/infants-and-children/healthy-brain)
-
-Fetal - 10 Years, MRI
-
-
-**Brain Development (Cont):**
-
-T1 and T2 Images
-
-**[Brain Development 3 (28-44 Weeks)](https://brain-development.org/brain-atlases/neonatal-brain-atlases/neonatal-brain-atlas-serag/)**
-
-**[Brain Development 4 (Term-Born and Preterm Neonates)](https://brain-development.org/brain-atlases/neonatal-brain-atlases/neonatal-brain-atlas-gousias/)**
-
-**[Brain Development 5 (37-40 Weeks)](https://brain-development.org/brain-atlases/neonatal-brain-atlases/neonatal-brain-atlas-makropoulos/)**
-
-
 [**USC - 1:**](https://www.frontiersin.org/articles/10.3389/fnins.2021.650082/full)
-
 Neonatal, MRI for 3T
 
 
 [**Nature Communications:**](https://www.nature.com/articles/s41467-021-22960-0)
-
 Neonatal, Resting State and Diffusion MRI
 
 
 [**UNC:**](https://www.med.unc.edu/bric/ideagroup/free-softwares/unc-infant-0-1-2-atlases/)
-
 0-2 Years, Intensity model, Segmentation model, Probability map
 
 
 [**BCP:**](https://babyconnectomeproject.org/)
-
 0-5 Years, Data Coming Soon (4 Years Project Starting 2019)
 
 
 [**NIH PEDS:**](https://www.sciencedirect.com/science/article/abs/pii/S105381190500710X?via%3Dihub)
-
 7 Days - 14 Years, Longitudinal & Multimodal MRI
 
 
 [**iSeg-2017:**](https://iseg2017.web.unc.edu/)
-
 6 Months, T1 and T2
 
 
 [**iSeg-2019:**](https://iseg2019.web.unc.edu/)
-
 6 Months, T1 and T2
 
 
 [**Brain Development 2 (Atlas):**](https://brain-development.org/brain-atlases/neonatal-brain-atlases/)
-
 29-44 Weeks, T2
 
 
 [**INDI - UW Madison:**](http://fcon_1000.projects.nitrc.org/indi/PRIME/uwmadison.html)
-
 0.8-4.5 Years, T1, Resting State, Diffusion Weighted
 
 
 [**Brain Development 6 (Atlas):**](https://brain-development.org/brain-atlases/pediatric-brain-atlases/)
-
 2 Years, MRI
 
 
 [**Calgary:**](https://www.developmentalneuroimaginglab.ca/)
-
 2-7 Years, Diffusion tensor imaging (DTI), Anatomical imaging, Quantitative susceptibility mapping (QSM), Resting state MRI
 
 
 [**Calgary Preschool:**](https://osf.io/axz5r/)
-
 2-8 Years, fMRI & DIffusion Tensor Imaging
 
 
 [**OpenNeuro:**](https://openneuro.org/datasets/ds000228/versions/1.1.0)
-
 3-12 Years, MRI
 
 
 [**PING:**](http://pingstudy.ucsd.edu/)
-
 3-20 Years, Multimodal Imaging
 
 
 [**McGill NIH:**](https://www.bic.mni.mcgill.ca/nihpd_info/info2/index.html)
-
 4 Years, MRI, Diffusion Tensor Imaging, MRS
 
 
 [**HBM:**](https://brainanddevelopment.nl/wp-content/uploads/2019/08/Wierenga_et_al_2017_Longitudinal_BrainNetwork_Children.pdf)
-
 4-13 Years, Diffusion Weighted Scans
 
 
 [**NIST:**](http://nist.mni.mcgill.ca/pediatric-atlases-4-5-18-5y/)
-
 4.5-18.5 Years, T1 Applied to T2
 
 
 [**OpenNeuro 2:**](https://openneuro.org/datasets/ds001894/versions/1.4.1)
-
 5, 7, 9 Years, T1 & Diffusion Tensor Imaging
-
 Goes in line with this article: https://www.nature.com/articles/s41597-021-01106-3
 
-
 [**Vanderbilt 2:**](https://www.researchgate.net/publication/350601331_A_longitudinal_neuroimaging_dataset_on_language_processing_in_children_ages_5_7_and_9_years_old)
-
 5.5-6.5, 7-8, 8.5-10 Years, T1 & Diffusion Tensor Imaging
 
 
 [**HCP-D:**](https://www.humanconnectome.org/study/hcp-lifespan-development)
-
 5-21 Years, Structural/Functional/Diffusion/Perfusion Imaging
 
 
 [**HBNB:**](http://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/index.html)
-
 5-21 Years, T1, T2, DWI, Resting-State
 
 
 [**IBIS:**](https://www.sciencedirect.com/science/article/pii/S2213158220303880?via%3Dihub)
-
 6-24 Years, Multi-Site MRI
 
 
 [**ABIDE II:**](http://fcon_1000.projects.nitrc.org/indi/abide/abide_II.html)
-
 6-64 Years, Resting-State & Structural fMRI
 
 
 [**NKI:**](https://pubmed.ncbi.nlm.nih.gov/23087608/)
-
 6-85 Years, Advanced Neuroimaging (No Other Info)
 
 
 [**IBSR:**](https://www.nitrc.org/projects/ibsr)
-
 7+ Years, T1 in Talairach Orientation
 
 
 [**INDI-AM:**](http://fcon_1000.projects.nitrc.org/indi/PRIME/amu.html)
-
 7-8 Years, T1, T2, QSM
 
 
 [**CANDI:**](https://escholarship.umassmed.edu/cs_schizbull08/)
-
 7-13 Years, Structural MRI, Anatomic Segmentations 
 
 
 **[ADHD-200:](https://pubmed.ncbi.nlm.nih.gov/27423255/)**
-
 7-27 Years, fMRI 
 
 
 [**ABIDE I:**](http://fcon_1000.projects.nitrc.org/indi/abide/abide_I.html)
-
 7-64 Years (Median 14 Years), Resting-State fMRI, Structural MRI 
 
 
 **[OpenNeuro 4:](https://openneuro.org/datasets/ds003126/versions/1.2.0)**
-
 8-13 Years, T1
 
 
 **[Philadelphia:](https://pubmed.ncbi.nlm.nih.gov/25840117/)**
-
 8-21 Years, Multimodal and Task fMRI
 
 
 **[OpenNeuro 3:](https://openneuro.org/datasets/ds003499/versions/1.0.1)**
-
 8-25 Years, MRI
 
 
 **[ABCD:](https://abcdstudy.org/about/)**
-
 9-10 Years, T1
 
 
 **[Dev-CoG:](http://devcog.mrn.org/)**
-
 9-14 Years, Multimodal/Task/Longitudinal fMRI, Behaviour and Genetics Analyses 
 
 
 **[OpenNeuro 1:](https://openneuro.org/datasets/ds001894/versions/1.2.2)**
-
 10.5 Years, T1, T2, DTI 
 
 
 **[SchizConnect:](https://pubmed.ncbi.nlm.nih.gov/24223551/)**
-
 14-67 Years, Multimodal/Multi-Site/Task fMRI
 
 
 **[GSP:](https://www.nature.com/articles/sdata201531)**
-
 18-35 Years, T1, Behaviour Analysis 
 
 
 **[NARPS:](https://www.nature.com/articles/s41597-019-0113-7)**
-
 18-37 Years, T1 
 
 
 # Mixed Age Groups Imaging List
 **[LONI:](https://resource.loni.usc.edu/collaboration/featured-collaborations/pediatric-brain-project/)**
-
 0-3 Years, 7-9 Years, Blood-Oxygenation-Level Dependent MRI, Arterial Spin Labeling
 
 
 **[USC:](https://jerlab.sc.edu/projects/neurodevelopmental-mri-database/)**
-
 2 Weeks - 12 Months, 15 Months - 2 Years, 4-10 Years, MRI Templates & Segmented Volumes
 
-
-
 **[PBTA:](https://cbtn.org/pediatric-brain-tumor-atlas)**
-
 Wide Range of Age Groups, MRI & Radiology Report 
 
 
