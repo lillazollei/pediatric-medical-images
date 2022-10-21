@@ -48,22 +48,19 @@ d
 spatio-temporal structural atlas for the neonatal brain with 87 labelled structures of the developing brain; N = 420 brain MRI images; 37-40 weeks age-at-scan
 **Keywords**: postnatal, newborn, atlas, labels, 4D
 
-<!-- ### [Fetal Atlas Online Viewer](http://fetalmri.org/index.html?B30) -->
-<!-- What data set is used? -->
-<!-- **Keywords**: fetal, viewer -->
+### [Fetal Atlas Online Viewer](http://fetalmri.org/index.html?B30)
+fetal atlases based on increasing gestational age, data set source unclear due to temporary error in website 
+**Keywords**: fetal, viewer, 2D, 3D, atlas 
 
-<!-- ORGANIZE FROM BELOW --> 
+### [**Boston Children's:**](https://www.frontiersin.org/articles/10.3389/fped.2017.00159/full)
+age-specific atlases on premature infants (around 33 Weeks), resting-state T1, mapped using neural networks and resting state networks, convertible to structural and functional in dicom images format 
+**Keywords**: infants, atlas, 3D, 4D T1, fMRI
 
-<!-- LZ: This is resting state data. Is the individual data available? Is there structural available? >
-[**Boston Children's:**](https://www.frontiersin.org/articles/10.3389/fped.2017.00159/full)
-Premature Infants (Around 33 Weeks), T1
+### [**USC - 1:**](https://www.frontiersin.org/articles/10.3389/fnins.2021.650082/full)
+neonatal (mean post-menstrual age (PMA) at birth = 28.1 ± 2.0 weeks; range 24–33 weeks) multiatlas-based segmentation, 3T system used and T1 images acquired, comparison with existing literature using T1/T2 for cortical thickness measurements 
+**Keywords**: neonates, multiatlas, 3D, T1, segmentation 
 
-
-[**USC - 1:**](https://www.frontiersin.org/articles/10.3389/fnins.2021.650082/full)
-Neonatal, MRI for 3T
-
-
-[**Nature Communications:**](https://www.nature.com/articles/s41467-021-22960-0)
+### [**Nature Communications:**](https://www.nature.com/articles/s41467-021-22960-0)
 Neonatal, Resting State and Diffusion MRI
 
 
