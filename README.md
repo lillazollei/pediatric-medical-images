@@ -29,6 +29,46 @@ neonates (20 brain atlases of term-born and preterm infants, of 50 regions each,
 5, 7, 9 years, T1 & diffusion tensor imaging. longtitudinal images correlating to multisensory lexical processing in children. data available in OpenNeuro. goes in line with this article: https://www.nature.com/articles/s41597-021-01106-3
 **Keywords**: T1, DTI, pediatric, longitudinal, multisensory lexical processing
 
+### [**Vanderbilt 2:**](https://www.researchgate.net/publication/350601331_A_longitudinal_neuroimaging_dataset_on_language_processing_in_children_ages_5_7_and_9_years_old)
+5.5-6.5, 7-8, 8.5-10 years, T1 & diffusion tensor imaging to show language development with longitudinal design. data publicly available under Creative Commons CCO license. 
+**Keywords**: pediatric, T1, DTI, longitudinal, language 
+
+### [**HCP-D:**](https://www.humanconnectome.org/study/hcp-lifespan-development)
+5-21 years, structural/functional/diffusion/perfusion imaging. cross-sectional visit 1 (V1) preprocessed structural and functional imaging data, unprocessed V1 imaging data for all included modalities. data downlodable on website. 
+**Keywords**: pediatric, structural, functional, diffusion, perfusion, cross-sectional
+
+### [**HBNB:**](http://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/index.html)
+5-21 years, T1, T2, DWI, resting-state, EEG to detect and characterize pathological processes. neuroimaging and phenotypic data available on website. 
+**Keywords**: pediatric, T1, T2, DWI, EEG, MRI, pathology 
+
+### [**OpenNeuro 4:**](https://openneuro.org/datasets/ds003126/versions/1.2.0)
+8-13 Years, T1 and 3 Tesla fMRI data derived for measuring reading-related functional activity. data available on OpenNeuro. 
+**Keywords**: pediatric, fMRI, 3T, T1, functional activity
+
+### [**Philadelphia:**](https://pubmed.ncbi.nlm.nih.gov/25840117/)
+8-21 years, multimodal and task fMRI combined with cognitive phenotypes and genomics. data access link unclear due to limited access to NIH paper. 
+**Keywords**: adolescence, data-sharing, development, MRI, neuroimaging, multimodal, pediatric 
+
+### [**OpenNeuro 3:**](https://openneuro.org/datasets/ds003499/versions/1.0.1)
+8-25 years, MRI, developmental changes in prefrontal cortex. data available on OpenNeuro. 
+**Keywords**: MRI, pediatric, adolescent, developmental 
+
+### [**OpenNeuro 1:**](https://openneuro.org/datasets/ds001894/versions/1.2.2)
+10.5 years, T1, T2, DTI, longitudinal neuroimaging dataset on lexical processing in children. 
+**Keywords**: pediatric, dataset, T1, T2, DTI, longitudinal, lexical processing
+
+### [**SchizConnect:**](https://pubmed.ncbi.nlm.nih.gov/24223551/)
+14-67 years, multimodal/multi-site/task fMRI. Northwestern University Schizophrenia Data and Software Tool (NUSDAST) used. also includes neuroimaging (MR scans, landmarks and surface maps for deep subcortical structures, and FreeSurfer cortical parcellation and measurement data), cognitive (cognitive domain scores for crystallized intelligence, working memory, episodic memory, and executive function), clinical (demographic, sibling relationship, SAPS and SANS psychopathology), and genetic (20 polymorphisms) data, collected from more than 450 subjects, most with 2-year longitudinal follow-up. neuroimaging mapping also conducted. 
+**Keywords**: large age range, fMRI, multimodal, multi-site, task, cognitive, genetic, longitudinal, mapping
+
+### [**GSP:**](https://www.nature.com/articles/sdata201531)
+18-35 years, behaviour analysis. T1-weighted structural MRI scan and one or two resting-state functional MRI scans in each dataset. test-retest reliability datasets also included. dataset request available at Harvard Neuroinformatics website. 
+**Keywords**: adolescent, behaviour, T1, MRI, strucural, resting-state, functional, reliability datasets 
+
+### [**NARPS:**](https://www.nature.com/articles/s41597-019-0113-7)
+18-37 years, T1. dataset of each participant includes an anatomical (T1 weighted) scan and behavioral data from four runs. dataset shared through OpenNeuro and is formatted according to the Brain Imaging Data Structure (BIDS) standard. pre-processed with fMRIprep. metadata and dataset available in fMRIPrep.
+**Keywords**: adolescent, adult, T1, fMRI, anatomical, BIDS, metadata 
+
 ## Main Fetal / Pediatric Atlas List
 
 ### [Synapse](https://www.synapse.org/#!Synapse:syn25887675/wiki/611424)
@@ -129,85 +169,41 @@ probabilistic Harvard-Oxford Cortical Structural Atlas, neonatal, resting state 
 4.5-18.5 years, T1 applied to T2. unbiased standard magnetic resonance imaging template brain volume for pediatric data. data usage available in software section. 
 **Keywords**: T1, T2, MRI, template, atlas, pediatric 
 
-### [**Vanderbilt 2:**](https://www.researchgate.net/publication/350601331_A_longitudinal_neuroimaging_dataset_on_language_processing_in_children_ages_5_7_and_9_years_old)
-5.5-6.5, 7-8, 8.5-10 Years, T1 & Diffusion Tensor Imaging
-**Keywords**:
+### [**IBIS:**](https://www.sciencedirect.com/science/article/pii/S2213158220303880?via%3Dihub)
+6-24 years, multi-site MRI, longitudinal tensor based morphometry of presymptomatic period of ASD noted. differences in voxelwise growth trajectories of children with ASD examined. only parts of data available in paper. 
+**Keywords**: MRI, multi-site, longitudinal, morphometry, voxelwise growth, pediatric, atlas 
 
-### [**HCP-D:**](https://www.humanconnectome.org/study/hcp-lifespan-development)
-5-21 Years, Structural/Functional/Diffusion/Perfusion Imaging
+### [**ABIDE II:**](http://fcon_1000.projects.nitrc.org/indi/abide/abide_II.html)
+6-64 years, resting-state & structural fMRI, 19 sites. two collections include longitudinal samples of data collected from 38 individuals at two time points (1-4 year interval). data available on NITRC. 
+**Keywords**: large age range, fMRI, multi-site, longitudinal, atlas 
 
+### [**NKI:**](https://pubmed.ncbi.nlm.nih.gov/23087608/)
+6-85 years, advanced neuroimaging, deeply phenotyped samples. no other info due to limited NIH paper availability. 
+**Keywords**: large age range, neuroimaging, phenotype 
 
-### [**HBNB:**](http://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/index.html)
-5-21 Years, T1, T2, DWI, Resting-State
+### [**IBSR:**](https://www.nitrc.org/projects/ibsr)
+7+ years, T1 in talairach orientation, manually-guided and labeled expert segmentation results along with magnetic resonance brain image data. data available on NITRC. 
+**Keywords**: T1, pediatric, segmentation, manual, MRI, atlas
 
+### [**INDI-AM:**](http://fcon_1000.projects.nitrc.org/indi/PRIME/amu.html)
+7-8 years, T1, T2, QSM, diffusion and structural data from monkeys. data downloadable in website. 
+**Keywords**: T1, T2, MRI, QSM, DTI, structural, monkeys 
 
-[**IBIS:**](https://www.sciencedirect.com/science/article/pii/S2213158220303880?via%3Dihub)
-6-24 Years, Multi-Site MRI
+### [**ADHD-200:**](https://pubmed.ncbi.nlm.nih.gov/27423255/)
+7-27 years, resting state and functional fMRI, 4D volumes, multiple analytical pipelines, preprocessed data. data available on NITRC. maps of 10 intrinsic connectivity networks, fractional amplitude of low frequency fluctuation, and regional homogeneity, and grey matter density map provided. 
+**Keywords**: large age range, fMRI, resting state, functional, piepelines, 4D, atlas 
 
+### [**ABIDE I:**](http://fcon_1000.projects.nitrc.org/indi/abide/abide_I.html)
+7-64 years (median 14 years), resting-state fMRI and structural MRI across multiple sites. similar to ABIDE II above. data available on website. 
+**Keywords**: fMRI, structural, multiple sites, atlas 
 
-[**ABIDE II:**](http://fcon_1000.projects.nitrc.org/indi/abide/abide_II.html)
-6-64 Years, Resting-State & Structural fMRI
+### [**ABCD:**](https://abcdstudy.org/about/)
+9-10 years, T1 images of four different task studies. data available on NIMH data archive. 
+**Keywords**: T1, pediatric, tasks, atlas, 4D 
 
-
-[**NKI:**](https://pubmed.ncbi.nlm.nih.gov/23087608/)
-6-85 Years, Advanced Neuroimaging (No Other Info)
-
-
-[**IBSR:**](https://www.nitrc.org/projects/ibsr)
-7+ Years, T1 in Talairach Orientation
-
-
-[**INDI-AM:**](http://fcon_1000.projects.nitrc.org/indi/PRIME/amu.html)
-7-8 Years, T1, T2, QSM
-
-
-[**CANDI:**](https://escholarship.umassmed.edu/cs_schizbull08/)
-7-13 Years, Structural MRI, Anatomic Segmentations 
-
-
-**[ADHD-200:](https://pubmed.ncbi.nlm.nih.gov/27423255/)**
-7-27 Years, fMRI 
-
-
-[**ABIDE I:**](http://fcon_1000.projects.nitrc.org/indi/abide/abide_I.html)
-7-64 Years (Median 14 Years), Resting-State fMRI, Structural MRI 
-
-
-**[OpenNeuro 4:](https://openneuro.org/datasets/ds003126/versions/1.2.0)**
-8-13 Years, T1
-
-
-**[Philadelphia:](https://pubmed.ncbi.nlm.nih.gov/25840117/)**
-8-21 Years, Multimodal and Task fMRI
-
-
-**[OpenNeuro 3:](https://openneuro.org/datasets/ds003499/versions/1.0.1)**
-8-25 Years, MRI
-
-
-**[ABCD:](https://abcdstudy.org/about/)**
-9-10 Years, T1
-
-
-**[Dev-CoG:](http://devcog.mrn.org/)**
-9-14 Years, Multimodal/Task/Longitudinal fMRI, Behaviour and Genetics Analyses 
-
-
-**[OpenNeuro 1:](https://openneuro.org/datasets/ds001894/versions/1.2.2)**
-10.5 Years, T1, T2, DTI 
-
-
-**[SchizConnect:](https://pubmed.ncbi.nlm.nih.gov/24223551/)**
-14-67 Years, Multimodal/Multi-Site/Task fMRI
-
-
-**[GSP:](https://www.nature.com/articles/sdata201531)**
-18-35 Years, T1, Behaviour Analysis 
-
-
-**[NARPS:](https://www.nature.com/articles/s41597-019-0113-7)**
-18-37 Years, T1 
-
+### [**Dev-CoG:**](http://devcog.mrn.org/)
+9-15 years, multimodal/task/longitudinal fMRI, MEG, DNA, behaviour and genetics analyses. quantification of brain dynamics in childhood. project recent and still ongoing, data not yet available. 
+**Keywords**: pediatric, adolescent, fMRI, MEG, DNA, longitudinal, multimodal, quantification 
 
 # Mixed Age Groups Imaging List
 **[LONI:](https://resource.loni.usc.edu/collaboration/featured-collaborations/pediatric-brain-project/)**
