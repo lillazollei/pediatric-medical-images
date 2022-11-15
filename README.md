@@ -25,6 +25,10 @@ longitudinal infant data that will be collected over the first ten years of life
 neonates (20 brain atlases of term-born and preterm infants, of 50 regions each, together with their related MRIs)
 **Keywords**: postnatal, newborn, preterm, fullterm, semi-manual lables
 
+### [**OpenNeuro 2:**](https://openneuro.org/datasets/ds001894/versions/1.4.1)
+5, 7, 9 years, T1 & diffusion tensor imaging. longtitudinal images correlating to multisensory lexical processing in children. data available in OpenNeuro. goes in line with this article: https://www.nature.com/articles/s41597-021-01106-3
+**Keywords**: T1, DTI, pediatric, longitudinal, multisensory lexical processing
+
 ## Main Fetal / Pediatric Atlas List
 
 ### [Synapse](https://www.synapse.org/#!Synapse:syn25887675/wiki/611424)
@@ -51,94 +55,89 @@ spatiotemporal structural atlas for the neonatal brain with 87 labelled structur
 <!-- fetal atlases based on increasing gestational age, data set source unclear due to temporary error in website -->
 <!-- **Keywords**: fetal, viewer, 2D, 3D, atlas -->
 
-<!-- ACCESSIBLE??? -->
 ### [**Boston Children's:**](https://www.frontiersin.org/articles/10.3389/fped.2017.00159/full)
-age-specific atlases on premature infants (around 33 Weeks), resting-state T1, mapped using neural networks and resting state networks, convertible to structural and functional in dicom images format 
+age-specific atlases on premature infants (around 33 Weeks), resting-state T1, mapped using neural networks and resting state networks, convertible to structural and functional in dicom images format. only some parts of dataset viewable via research article. 
 **Keywords**: infants, atlas, 3D, 4D T1, fMRI
 
-<!-- UCSF and UNC: are these ACCESSIBLE??? -->
 ### [**USC - 1:**](https://www.frontiersin.org/articles/10.3389/fnins.2021.650082/full)
-neonatal (mean post-menstrual age (PMA) at birth = 28.1 ± 2.0 weeks; range 24–33 weeks) multiatlas-based segmentation, 3T system used and T1 images acquired, comparison with existing literature using T1/T2 for cortical thickness measurements 
+neonatal (mean post-menstrual age (PMA) at birth = 28.1 ± 2.0 weeks; range 24–33 weeks) multiatlas-based segmentation, 3T system used and T1 images acquired, comparison with existing literature using T1/T2 for cortical thickness measurements. mentioned that data will be made available by the authors, link to data unclear. 
 **Keywords**: neonates, multiatlas, 3D, T1, segmentation 
 
-<!-- this relies in DHCP 2nd release -->
-<!-- ### [**Nature Communications:**](https://www.nature.com/articles/s41467-021-22960-0) -->
-<!-- probabilistic Harvard-Oxford Cortical Structural Atlas, neonatal, resting state and diffusion MRI, structural T2 data collected, data available upon request but second data release available in website -->
-<!-- **Keywords**: neonates, atlas, MRI, T2, structural, resting-state -->
+### [**Nature Communications:**](https://www.nature.com/articles/s41467-021-22960-0) -->
+probabilistic Harvard-Oxford Cortical Structural Atlas, neonatal, resting state and diffusion MRI, structural T2 data collected, data available upon request but second data release available in website. relies in DHCP 2nd release.
+**Keywords**: neonates, atlas, MRI, T2, structural, resting-state
 
 ### [**UNC:**](https://www.med.unc.edu/bric/ideagroup/free-softwares/unc-infant-0-1-2-atlases/)
-0-2 Years, Intensity model, Segmentation model, Probability map - CONFIRM 
-**Keywords**:
+0-2 years, intensity model, segmentation model, probability map. separate atlas constructed for three age groups of neonates, 1 year olds, 2 year olds. T1 and T2. data accessible via NITRC.  
+**Keywords**: neonates, atlas, T1, T2, segmentation, probability, intensity 
 
 ### [**BCP:**](https://babyconnectomeproject.org/)
-0-5 Years, Data Coming Soon (4 Years Project Starting 2019)
+0-5 years, systematic analysis of MR data and behavioral assessments. extended from human connectome project. data coming soon (4 Years Project Starting 2019) and data download page under construction. 
+**Keywords**: MRI, behavioural assessment, neonates, atlas, pediatric 
 
+### [**NIH PEDS:**](https://www.sciencedirect.com/science/article/abs/pii/S105381190500710X?via%3Dihub)
+7 days - 14 years, longitudinal & multimodal MRI transferred to automated MRI segmentation, 3D statistical maps, remote interrogation. data available to scientific community (NITRC) 
+**Keywords**:pediatric, MRI, database, brain behavior, multi-center
 
-[**NIH PEDS:**](https://www.sciencedirect.com/science/article/abs/pii/S105381190500710X?via%3Dihub)
-7 Days - 14 Years, Longitudinal & Multimodal MRI
+### [**iSeg-2017:**](https://iseg2017.web.unc.edu/)
+6 months, T1 and T2, comparison of (semi-)automatic algorithms for the segmentation of 6-month infant brain tissues and the measurement of corresponding structures using T1- and T2-weighted brain MRI scans. zip files available for download. 
+**Keywords**: T1, T2, automatic, segmentation, comparison, atlas 
 
+### [**iSeg-2019:**](https://iseg2019.web.unc.edu/)
+6 months, T1 and T2, similar to iSeg-2017. automatic segmentation algorithms on 6-month infant brain MRI from multiple sites. training, validation, testing data sets available. 
+**Keywords**: multiple sites, atlas, T1, T2 
 
-[**iSeg-2017:**](https://iseg2017.web.unc.edu/)
-6 Months, T1 and T2
+### [**Brain Development 2 (Atlas):**](https://brain-development.org/brain-atlases/neonatal-brain-atlases/)
+29-44 weeks, T2. segmentations of 153 neonatal subjects at different ages using a kernel-based smoothing method. average intensity template and corresponding tissue probability maps generated. data accessible on website. 
+**Keywords**: neonatal, T2, segmentation, kernel method, intensity, probability maps 
 
+### [**INDI - UW Madison:**](http://fcon_1000.projects.nitrc.org/indi/PRIME/uwmadison.html)
+0.8-4.5 years, T1, resting state, diffusion weighted. anatomical, diffusion, and resting-state fMRI data from 592 macaque monkeys at two different sites. data downloadable on website. 
+**Keywords**: T1, diffusion, pediatric, atlas, fMRI, anatomical, monkeys 
 
-[**iSeg-2019:**](https://iseg2019.web.unc.edu/)
-6 Months, T1 and T2
+### [**Brain Development 6 (Atlas):**](https://brain-development.org/brain-atlases/pediatric-brain-atlases/)
+2 years, MRI. 3D atlases of brain at different ages to monitor cerebral growth and development. automatic segmentation on neonatal/pediatric brain images. data downloadable after filling out personal information and license agreement. 
+**Keywords**: pediatric, atlas, 3D, automatic, cerebral 
 
+### [**Calgary:**](https://www.developmentalneuroimaginglab.ca/)
+2-7 years, diffusion tensor imaging (DTI), anatomical imaging, quantitative susceptibility mapping (QSM), resting state MRI. 
+!!! Double check link !!! 
+**Keywords**:
 
-[**Brain Development 2 (Atlas):**](https://brain-development.org/brain-atlases/neonatal-brain-atlases/)
-29-44 Weeks, T2
+### [**Calgary Preschool:**](https://osf.io/axz5r/)
+2-8 years, rsfMRI, diffusion tensor imaging, anatomical imaging, arterial spin labeling to create baseline data used to understand cognitive and behavioral development. deviation from normal development in children also shown. data available in osf. 
+**Keywords**: pediatric, MRI, DTI, anatomical, labeling, development, atlas 
 
+### [**OpenNeuro:**](https://openneuro.org/datasets/ds000228/versions/1.1.0)
+3-12 years, MRI. reverse correlation analysis conducted in adult and children samples using average response in ToM brain regions and pain matrix. onsets and durations noted in TRs. data available in OpenNeuro. 
+**Keywords**: pediatric, MRI, reverse analysis, ToM region, pain matrix 
 
-[**INDI - UW Madison:**](http://fcon_1000.projects.nitrc.org/indi/PRIME/uwmadison.html)
-0.8-4.5 Years, T1, Resting State, Diffusion Weighted
+### [**PING:**](http://pingstudy.ucsd.edu/)
+3-20 years, multimodal imaging
+!!! Link temporarily not working !!! 
+**Keywords**:
 
+### [**McGill NIH:**](https://www.bic.mni.mcgill.ca/nihpd_info/info2/index.html)
+4 years, anatomical MRI, diffusion tensor imaging, MRS to map pediatric brain development. seven year study. brain MR and behavioral data analyzed at data coordinating center, MR spectroscopy and DTI analyzed. data available to download. 
+**Keywords**: MRI, DTI, MRS, pediatric, MR spectroscopy, development 
 
-[**Brain Development 6 (Atlas):**](https://brain-development.org/brain-atlases/pediatric-brain-atlases/)
-2 Years, MRI
+### [**HBM:**](https://brainanddevelopment.nl/wp-content/uploads/2019/08/Wierenga_et_al_2017_Longitudinal_BrainNetwork_Children.pdf)
+4-13 years, longitudinal diffusion weighted scans. developmental changes in connectome characterized by estimating age-related changes in fractional anisotropy (FA) for reconstructed fibers (edges) between 68 cortical regions. some scans derived from the Pediatric Longitudinal Imaging, Neurocognition, and Genetics (PLING) study. only data analysis available in paper. 
+**Keywords**: longitudinal, diffusion weighted, pediatric, fractional antisotropy, cortical, atlas 
 
+### [**NIST:**](http://nist.mni.mcgill.ca/pediatric-atlases-4-5-18-5y/)
+4.5-18.5 years, T1 applied to T2. unbiased standard magnetic resonance imaging template brain volume for pediatric data. data usage available in software section. 
+**Keywords**: T1, T2, MRI, template, atlas, pediatric 
 
-[**Calgary:**](https://www.developmentalneuroimaginglab.ca/)
-2-7 Years, Diffusion tensor imaging (DTI), Anatomical imaging, Quantitative susceptibility mapping (QSM), Resting state MRI
-
-
-[**Calgary Preschool:**](https://osf.io/axz5r/)
-2-8 Years, fMRI & DIffusion Tensor Imaging
-
-
-[**OpenNeuro:**](https://openneuro.org/datasets/ds000228/versions/1.1.0)
-3-12 Years, MRI
-
-
-[**PING:**](http://pingstudy.ucsd.edu/)
-3-20 Years, Multimodal Imaging
-
-
-[**McGill NIH:**](https://www.bic.mni.mcgill.ca/nihpd_info/info2/index.html)
-4 Years, MRI, Diffusion Tensor Imaging, MRS
-
-
-[**HBM:**](https://brainanddevelopment.nl/wp-content/uploads/2019/08/Wierenga_et_al_2017_Longitudinal_BrainNetwork_Children.pdf)
-4-13 Years, Diffusion Weighted Scans
-
-
-[**NIST:**](http://nist.mni.mcgill.ca/pediatric-atlases-4-5-18-5y/)
-4.5-18.5 Years, T1 Applied to T2
-
-
-[**OpenNeuro 2:**](https://openneuro.org/datasets/ds001894/versions/1.4.1)
-5, 7, 9 Years, T1 & Diffusion Tensor Imaging
-Goes in line with this article: https://www.nature.com/articles/s41597-021-01106-3
-
-[**Vanderbilt 2:**](https://www.researchgate.net/publication/350601331_A_longitudinal_neuroimaging_dataset_on_language_processing_in_children_ages_5_7_and_9_years_old)
+### [**Vanderbilt 2:**](https://www.researchgate.net/publication/350601331_A_longitudinal_neuroimaging_dataset_on_language_processing_in_children_ages_5_7_and_9_years_old)
 5.5-6.5, 7-8, 8.5-10 Years, T1 & Diffusion Tensor Imaging
+**Keywords**:
 
-
-[**HCP-D:**](https://www.humanconnectome.org/study/hcp-lifespan-development)
+### [**HCP-D:**](https://www.humanconnectome.org/study/hcp-lifespan-development)
 5-21 Years, Structural/Functional/Diffusion/Perfusion Imaging
 
 
-[**HBNB:**](http://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/index.html)
+### [**HBNB:**](http://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/index.html)
 5-21 Years, T1, T2, DWI, Resting-State
 
 
