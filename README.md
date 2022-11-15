@@ -25,7 +25,7 @@ longitudinal infant data that will be collected over the first ten years of life
 neonates (20 brain atlases of term-born and preterm infants, of 50 regions each, together with their related MRIs)
 **Keywords**: postnatal, newborn, preterm, fullterm, semi-manual lables
 
-### [**OpenNeuro 2:**](https://openneuro.org/datasets/ds001894/versions/1.4.1)
+### [OpenNeuro 2:](https://openneuro.org/datasets/ds001894/versions/1.4.1)
 5, 7, 9 years, T1 & diffusion tensor imaging. longtitudinal images correlating to multisensory lexical processing in children. data available in OpenNeuro. goes in line with this article: https://www.nature.com/articles/s41597-021-01106-3
 **Keywords**: T1, DTI, pediatric, longitudinal, multisensory lexical processing
 
