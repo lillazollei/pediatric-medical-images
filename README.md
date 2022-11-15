@@ -125,7 +125,7 @@ neonatal (mean post-menstrual age (PMA) at birth = 28.1 Â± 2.0 weeks; range 24â€
 
 **Keywords**: neonates, multiatlas, 3D, T1, segmentation 
 
-### [**Nature Communications:**](https://www.nature.com/articles/s41467-021-22960-0) -->
+### [**Nature Communications:**](https://www.nature.com/articles/s41467-021-22960-0) 
 probabilistic Harvard-Oxford Cortical Structural Atlas, neonatal, resting state and diffusion MRI, structural T2 data collected, data available upon request but second data release available in website. relies in DHCP 2nd release.
 
 **Keywords**: neonates, atlas, MRI, T2, structural, resting-state
