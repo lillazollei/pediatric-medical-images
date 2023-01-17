@@ -7,6 +7,11 @@ Please do not hesitate to reach out for any feedback or questions!
 
 ## Main Fetal / Pediatric Medical Imaging List
 
+### [FeTA 2.1](https://www.synapse.org/#!Synapse:syn25649159/wiki/610007)
+MRI data of 80 subjects from 2 sources, labels are available on a subset   
+
+**Keywords**: fetal, MRI, BIDS, T2w, labels
+
 ### [dHCP 3rd release](http://www.developingconnectome.org/data-release/third-data-release/)
 <!-- **[1st Release](http://www.developingconnectome.org/project/data-release-user-guide/)** -->
 <!-- **[2nd Release](http://www.developingconnectome.org/second-data-release/)** -->
@@ -14,10 +19,10 @@ Please do not hesitate to reach out for any feedback or questions!
 
 **Keywords**: longitudinal, newborn, large, premature, postnatal, T1w, T2w, dMRI, rsfMRI, labels
 
-### [FeTA 2.1](https://www.synapse.org/#!Synapse:syn25649159/wiki/610007)
-MRI data of 80 subjects from 2 sources, labels are available on a subset   
-
-**Keywords**: fetal, MRI, BIDS, T2w, labels
+### [**BCP:**](https://nda.nih.gov/edit_collection.html?id=2848)
+hybrid accelerated longitudinal and cross-sectional, 0-5 years, N = 500 subjects, extended from human connectome project
+<!-- what atlas? --> 
+**Keywords**: longitudinal, cross-sectional, newborn, infant, toddler, T1w, T2w, dMRI 
 
 ### [HBCD](https://heal.nih.gov/research/infants-and-children/healthy-brain)
 longitudinal infant data that will be collected over the first ten years of life   
@@ -28,26 +33,26 @@ longitudinal infant data that will be collected over the first ten years of life
 neonates (20 brain atlases of term-born and preterm infants, of 50 regions each, together with their related MRIs)
 
 **Keywords**: postnatal, newborn, preterm, fullterm, semi-manual lables
+<!-- LZ: T1 or T2??  -->
 
-### [OpenNeuro 2:](https://openneuro.org/datasets/ds001894/versions/1.4.1)
-5, 7, 9 years, T1 & diffusion tensor imaging. longtitudinal images correlating to multisensory lexical processing in children. data available in OpenNeuro. goes in line with this article: https://www.nature.com/articles/s41597-021-01106-3
+### [HCP-D v2.0](https://www.humanconnectome.org/study/hcp-lifespan-development/data-releases)
+5-21 years, brain development in healthy cohort, multi-modal imaging 
 
-**Keywords**: T1, DTI, pediatric, longitudinal, multisensory lexical processing
+**Keywords**: cross-sectional, pediatric, adolescent, young adult, T1w, T2w, dMRI, rsFMRI, tFMRI, ASL 
 
-### [**Vanderbilt 2:**](https://www.researchgate.net/publication/350601331_A_longitudinal_neuroimaging_dataset_on_language_processing_in_children_ages_5_7_and_9_years_old)
-5.5-6.5, 7-8, 8.5-10 years, T1 & diffusion tensor imaging to show language development with longitudinal design. data publicly available under Creative Commons CCO license. 
+### [HBN v10.0](http://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/sharing_neuro.html#Direct%20Down)
+5-21 years, typical NYC population, neuroimaging and phenotypic data, goal N = 10000
 
-**Keywords**: pediatric, T1, DTI, longitudinal, language 
+**Keywords**: pediatric, adolescent, young adult, T1w, T2w, dMRI, rsFMRI, EEG, IN PROGRESS 
 
-### [**HCP-D:**](https://www.humanconnectome.org/study/hcp-lifespan-development)
-5-21 years, structural/functional/diffusion/perfusion imaging. cross-sectional visit 1 (V1) preprocessed structural and functional imaging data, unprocessed V1 imaging data for all included modalities. data downlodable on website. 
+### [OpenNeuro 2](https://openneuro.org/datasets/ds001894/versions/1.4.1)
+longitudinal (three timepoins: 5, 7, 9 years) multi-modal imaging study for language processing 
+<!-- goes in line with this article: https://www.nature.com/articles/s41597-021-01106-3 -->
 
-**Keywords**: pediatric, structural, functional, diffusion, perfusion, cross-sectional
+**Keywords**: longitudinal, pediatric, T1w, dMRI, tFMRI
 
-### [**HBNB:**](http://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/index.html)
-5-21 years, T1, T2, DWI, resting-state, EEG to detect and characterize pathological processes. neuroimaging and phenotypic data available on website. 
+<!-- LZ: RESUME FROM HERE --> 
 
-**Keywords**: pediatric, T1, T2, DWI, EEG, MRI, pathology 
 
 ### [**OpenNeuro 4:**](https://openneuro.org/datasets/ds003126/versions/1.2.0)
 8-13 Years, T1 and 3 Tesla fMRI data derived for measuring reading-related functional activity. data available on OpenNeuro. 
@@ -69,37 +74,24 @@ neonates (20 brain atlases of term-born and preterm infants, of 50 regions each,
 
 **Keywords**: pediatric, dataset, T1, T2, DTI, longitudinal, lexical processing
 
-### [**SchizConnect:**](https://pubmed.ncbi.nlm.nih.gov/24223551/)
-14-67 years, multimodal/multi-site/task fMRI. Northwestern University Schizophrenia Data and Software Tool (NUSDAST) used. also includes neuroimaging (MR scans, landmarks and surface maps for deep subcortical structures, and FreeSurfer cortical parcellation and measurement data), cognitive (cognitive domain scores for crystallized intelligence, working memory, episodic memory, and executive function), clinical (demographic, sibling relationship, SAPS and SANS psychopathology), and genetic (20 polymorphisms) data, collected from more than 450 subjects, most with 2-year longitudinal follow-up. neuroimaging mapping also conducted. 
-
-**Keywords**: large age range, fMRI, multimodal, multi-site, task, cognitive, genetic, longitudinal, mapping
-
-### [**GSP:**](https://www.nature.com/articles/sdata201531)
-18-35 years, behaviour analysis. T1-weighted structural MRI scan and one or two resting-state functional MRI scans in each dataset. test-retest reliability datasets also included. dataset request available at Harvard Neuroinformatics website. 
-
-**Keywords**: adolescent, behaviour, T1, MRI, strucural, resting-state, functional, reliability datasets 
-
-### [**NARPS:**](https://www.nature.com/articles/s41597-019-0113-7)
-18-37 years, T1. dataset of each participant includes an anatomical (T1 weighted) scan and behavioral data from four runs. dataset shared through OpenNeuro and is formatted according to the Brain Imaging Data Structure (BIDS) standard. pre-processed with fMRIprep. metadata and dataset available in fMRIPrep.
-
-**Keywords**: adolescent, adult, T1, fMRI, anatomical, BIDS, metadata 
-
 ## Main Fetal / Pediatric Atlas List
 
 ### [Synapse](https://www.synapse.org/#!Synapse:syn25887675/wiki/611424)
 spatio-temporal fetal brain atlas with 15 ages buckets (21-35wks): mean, mask, labels       
-
+<!-- LZ: how many labels? what are the labels? manual? from how many subjects?  -->
 **Keywords**: fetal, atlas, labels 
 
 ### [IMAGINE Fetal Brain Atlas](http://crl.med.harvard.edu/research/fetal_brain_atlas/)
 fetal brain atlases representing 22 to 38 weeks of gestation from N = 67 scans   
-
-**Keywords**: fetal, atlas, labels, dMRI, MRI, T2w
+<!-- LZ: how many labels? manual? how many atlases? is individual data avalable? --> 
+**Keywords**: fetal, atlas, labels, dMRI, T2w
 
 ### [Imperial Fetal Brain Development](https://brain-development.org/brain-atlases/fetal-brain-atlases/)
 spatiotemporal atlas representing 23 to 37 weeks of gestation from N = 80 subjects   
-
+<!-- is individual data available? --> 
 **Keywords**: fetal, atlas, T2w, probability
+
+<!-- LZ: not checked below --> 
 
 ### [Imperial Brain Development](https://brain-development.org/brain-atlases/neonatal-brain-atlases/neonatal-brain-atlas-serag/)
 spatiotemporal atlas representing 28 to 44 weeks post-menstrual age at time of scan from N = 204 premature subjects 
@@ -111,13 +103,9 @@ spatiotemporal structural atlas for the neonatal brain with 87 labelled structur
 
 **Keywords**: postnatal, newborn, atlas, labels, 4D
 
-<!-- ### [Fetal Atlas Online Viewer](http://fetalmri.org/index.html?B30) -->
-<!-- fetal atlases based on increasing gestational age, data set source unclear due to temporary error in website -->
-<!-- **Keywords**: fetal, viewer, 2D, 3D, atlas -->
-
 ### [**Boston Children's:**](https://www.frontiersin.org/articles/10.3389/fped.2017.00159/full)
 age-specific atlases on premature infants (around 33 Weeks), resting-state T1, mapped using neural networks and resting state networks, convertible to structural and functional in dicom images format. only some parts of dataset viewable via research article. 
-
+<!-- LZ: this is not clear --> 
 **Keywords**: infants, atlas, 3D, 4D T1, fMRI
 
 ### [**USC - 1:**](https://www.frontiersin.org/articles/10.3389/fnins.2021.650082/full)
@@ -135,10 +123,7 @@ probabilistic Harvard-Oxford Cortical Structural Atlas, neonatal, resting state 
 
 **Keywords**: neonates, atlas, T1, T2, segmentation, probability, intensity 
 
-### [**BCP:**](https://babyconnectomeproject.org/)
-0-5 years, systematic analysis of MR data and behavioral assessments. extended from human connectome project. data coming soon (4 Years Project Starting 2019) and data download page under construction. 
 
-**Keywords**: MRI, behavioural assessment, neonates, atlas, pediatric 
 
 ### [**NIH PEDS:**](https://www.sciencedirect.com/science/article/abs/pii/S105381190500710X?via%3Dihub)
 7 days - 14 years, longitudinal & multimodal MRI transferred to automated MRI segmentation, 3D statistical maps, remote interrogation. data available to scientific community (NITRC) 
@@ -243,11 +228,12 @@ probabilistic Harvard-Oxford Cortical Structural Atlas, neonatal, resting state 
 # Mixed Age Groups Imaging List
 **[LONI:](https://resource.loni.usc.edu/collaboration/featured-collaborations/pediatric-brain-project/)**
 0-3 Years, 7-9 Years, Blood-Oxygenation-Level Dependent MRI, Arterial Spin Labeling
-
+<!-- LZ: data does not seem to be downloadable: https://resource.loni.usc.edu/resources/downloads/ -->
 
 **[USC:](https://jerlab.sc.edu/projects/neurodevelopmental-mri-database/)**
 2 Weeks - 12 Months, 15 Months - 2 Years, 4-10 Years, MRI Templates & Segmented Volumes
 
 **[PBTA:](https://cbtn.org/pediatric-brain-tumor-atlas)**
 Wide Range of Age Groups, MRI & Radiology Report 
+<!-- LZ: Cannot find any MRI data reference -->
 
