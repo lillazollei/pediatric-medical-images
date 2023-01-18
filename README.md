@@ -10,7 +10,7 @@ Please do not hesitate to reach out for any feedback or questions!
 ### [FeTA 2.1](https://www.synapse.org/#!Synapse:syn25649159/wiki/610007)
 MRI data of 80 subjects from 2 sources, labels are available on a subset   
 
-**Keywords**: fetal, MRI, BIDS, T2w, labels
+**Keywords**: fetal, BIDS, T2w, labels
 
 ### [dHCP 3rd release](http://www.developingconnectome.org/data-release/third-data-release/)
 <!-- **[1st Release](http://www.developingconnectome.org/project/data-release-user-guide/)** -->
@@ -21,7 +21,7 @@ MRI data of 80 subjects from 2 sources, labels are available on a subset
 
 ### [**BCP:**](https://nda.nih.gov/edit_collection.html?id=2848)
 hybrid accelerated longitudinal and cross-sectional, 0-5 years, N = 500 subjects, extended from human connectome project
-<!-- what atlas? --> 
+<!-- LZ: what atlas? --> 
 **Keywords**: longitudinal, cross-sectional, newborn, infant, toddler, T1w, T2w, dMRI 
 
 ### [HBCD](https://heal.nih.gov/research/infants-and-children/healthy-brain)
