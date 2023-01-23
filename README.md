@@ -82,28 +82,22 @@ spatiotemporal atlas representing 23 to 37 weeks of gestation from N = 80 subjec
 <!-- is individual data available? --> 
 **Keywords**: fetal, atlas, T2w, probability
 
-### [Imperial Brain Development](https://brain-development.org/brain-atlases/neonatal-brain-atlases/neonatal-brain-atlas-serag/)
+<!### [Imperial Brain Development](https://brain-development.org/brain-atlases/neonatal-brain-atlases/neonatal-brain-atlas-serag/#Download)
 spatiotemporal atlas representing 28 to 44 weeks post-menstrual age at time of scan from N = 204 premature subjects 
 
 **Keywords**: postnatal, premature, atlas, T1w, T2w
 
-### [Imperial Brain Development](https://brain-development.org/brain-atlases/neonatal-brain-atlases/neonatal-brain-atlas-makropoulos/)
-spatiotemporal structural atlas for the neonatal brain with 87 labelled structures of the developing brain; N = 420 brain MRI images; 37-40 weeks age-at-scan
-
-**Keywords**: postnatal, newborn, atlas, labels, 4D
-
 ### [Imperial Brain Development (ALBERTS)](https://brain-development.org/brain-atlases/neonatal-brain-atlases/neonatal-brain-atlas-gousias/)
-neonates (20 brain atlases of term-born and preterm infants, of 50 regions each, together with their related MRIs)
+neonates (20 brain atlases of term-born and preterm infants, of 50 regions each, together with their related MRIs). Manual. T1/T2 unclear. 
 
-**Keywords**: postnatal, newborn, preterm, fullterm, semi-manual lables
-<!-- LZ: T1 or T2??  -->
+**Keywords**: postnatal, newborn, preterm, fullterm, manual lables
 
-### [**Boston Children's:**](https://www.frontiersin.org/articles/10.3389/fped.2017.00159/full)
+<!### [**Boston Children's:**](https://www.frontiersin.org/articles/10.3389/fped.2017.00159/full)
 age-specific atlases on premature infants (around 33 Weeks), resting-state T1, mapped using neural networks and resting state networks, convertible to structural and functional in dicom images format. only some parts of dataset viewable via research article. 
 <!-- LZ: this is not clear --> 
 **Keywords**: infants, atlas, 3D, 4D T1, fMRI
 
-### [**USC - 1:**](https://www.frontiersin.org/articles/10.3389/fnins.2021.650082/full)
+<!### [**USC - 1:**](https://www.frontiersin.org/articles/10.3389/fnins.2021.650082/full)
 neonatal (mean post-menstrual age (PMA) at birth = 28.1 ± 2.0 weeks; range 24–33 weeks) multiatlas-based segmentation, 3T system used and T1 images acquired, comparison with existing literature using T1/T2 for cortical thickness measurements. mentioned that data will be made available by the authors, link to data unclear. 
 
 **Keywords**: neonates, multiatlas, 3D, T1, segmentation 
