@@ -82,7 +82,7 @@ spatiotemporal atlas representing 23 to 37 weeks of gestation from N = 80 subjec
 **Keywords**: fetal, atlas, T2w, probability
 
 ### [Imperial Brain Development](https://brain-development.org/brain-atlases/neonatal-brain-atlases/neonatal-brain-atlas-serag/#Download) 
-<!-- spatiotemporal atlas representing 28 to 44 weeks post-menstrual age at time of scan from N = 204 premature subjects -->
+spatiotemporal atlas representing 28 to 44 weeks post-menstrual age at time of scan from N = 204 premature subjects 
 
 **Keywords**: postnatal, premature, atlas, T1w, T2w 
 
