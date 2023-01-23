@@ -7,7 +7,7 @@ Please do not hesitate to reach out for any feedback or questions!
 
 ## Main Fetal / Pediatric Medical Imaging List
 
-### [FeTA 2.1]([https://www.synapse.org/#!Synapse:syn25649159/wiki/610007](https://www.synapse.org/#!Synapse:syn25649159/files/))
+### [FeTA 2.1](https://www.synapse.org/#!Synapse:syn25649159/files/)
 MRI data of 80 subjects from 2 sources, labels are available on a subset   
 
 **Keywords**: fetal, BIDS, T2w, labels
