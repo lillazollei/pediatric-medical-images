@@ -69,16 +69,17 @@ longitudinal (three timepoins: 5, 7, 9 years) multi-modal imaging study for lang
 ### [Synapse](https://www.synapse.org/#!Synapse:syn25887675/wiki/611424)
 spatio-temporal fetal brain atlas with 15 ages buckets (21-35wks): mean, mask, labels       
 <!-- LZ: how many labels? what are the labels? manual? from how many subjects?  -->
+
 **Keywords**: fetal, atlas, labels 
 
 ### [IMAGINE Fetal Brain Atlas](https://form.jotform.com/91364382958166)
-22 to 38 weeks of gestation. 67 scans   
-<!-- LZ: how many labels? manual? how many atlases? is individual data avalable? --> 
-**Keywords**: fetal, atlas, labels, dMRI, T2w
+22 to 38 weeks of gestation. 67 scans, 81 subjects. Brain tissue and structure labels (cortical gray matter, white matter, subcortical gray matter structures, CSF, lateral ventricles, brainstem, and cerebellum labels). Automated. Unclear individual data avalability.
+
+**Keywords**: fetal, atlas, labels, automated dMRI, T2w
 
 ### [Imperial Fetal Brain Development](https://brain-development.org/brain-atlases/fetal-brain-atlases/)
-spatiotemporal atlas representing 23 to 37 weeks of gestation from N = 80 subjects   
-<!-- is individual data available? --> 
+spatiotemporal atlas representing 23 to 37 weeks of gestation from N = 80 subjects. Individual data unavailable. 
+
 **Keywords**: fetal, atlas, T2w, probability
 
 ### [Imperial Brain Development](https://brain-development.org/brain-atlases/neonatal-brain-atlases/neonatal-brain-atlas-serag/#Download) 
