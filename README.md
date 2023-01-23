@@ -41,7 +41,6 @@ longitudinal infant data that will be collected over the first ten years of life
 
 ### [OpenNeuro 2](https://openneuro.org/datasets/ds001894/versions/1.4.1)
 longitudinal (three timepoins: 5, 7, 9 years) multi-modal imaging study for language processing 
-<!-- goes in line with this article: https://www.nature.com/articles/s41597-021-01106-3 -->
 
 **Keywords**: longitudinal, pediatric, T1w, dMRI, tFMRI
 
@@ -82,25 +81,25 @@ spatiotemporal atlas representing 23 to 37 weeks of gestation from N = 80 subjec
 <!-- is individual data available? --> 
 **Keywords**: fetal, atlas, T2w, probability
 
-<!### [Imperial Brain Development](https://brain-development.org/brain-atlases/neonatal-brain-atlases/neonatal-brain-atlas-serag/#Download)
+<!-- ### [Imperial Brain Development](https://brain-development.org/brain-atlases/neonatal-brain-atlases/neonatal-brain-atlas-serag/#Download)
 spatiotemporal atlas representing 28 to 44 weeks post-menstrual age at time of scan from N = 204 premature subjects 
 
-**Keywords**: postnatal, premature, atlas, T1w, T2w>
+**Keywords**: postnatal, premature, atlas, T1w, T2w -->
 
-### [Imperial Brain Development (ALBERTS)](https://brain-development.org/brain-atlases/neonatal-brain-atlases/neonatal-brain-atlas-gousias/)
+<! -- ### [Imperial Brain Development (ALBERTS)](https://brain-development.org/brain-atlases/neonatal-brain-atlases/neonatal-brain-atlas-gousias/)
 neonates (20 brain atlases of term-born and preterm infants, of 50 regions each, together with their related MRIs). Manual. T1/T2 unclear. 
 
-**Keywords**: postnatal, newborn, preterm, fullterm, manual lables
+**Keywords**: postnatal, newborn, preterm, fullterm, manual lables -->
 
-<!### [**Boston Children's:**](https://www.frontiersin.org/articles/10.3389/fped.2017.00159/full)
+<! -- ### [**Boston Children's:**](https://www.frontiersin.org/articles/10.3389/fped.2017.00159/full)
 age-specific atlases on premature infants (around 33 Weeks), resting-state T1, mapped using neural networks and resting state networks, convertible to structural and functional in dicom images format. only some parts of dataset viewable via research article. 
 <!-- LZ: this is not clear --> 
-**Keywords**: infants, atlas, 3D, 4D T1, fMRI>
+**Keywords**: infants, atlas, 3D, 4D T1, fMRI -->
 
-<!### [**USC - 1:**](https://www.frontiersin.org/articles/10.3389/fnins.2021.650082/full)
+<! -- ### [**USC - 1:**](https://www.frontiersin.org/articles/10.3389/fnins.2021.650082/full)
 neonatal (mean post-menstrual age (PMA) at birth = 28.1 ± 2.0 weeks; range 24–33 weeks) multiatlas-based segmentation, 3T system used and T1 images acquired, comparison with existing literature using T1/T2 for cortical thickness measurements. mentioned that data will be made available by the authors, link to data unclear. 
 
-**Keywords**: neonates, multiatlas, 3D, T1, segmentation> 
+**Keywords**: neonates, multiatlas, 3D, T1, segmentation> -->
 
 ### [**Nature Communications:**](https://www.nature.com/articles/s41467-021-22960-0) 
 probabilistic Harvard-Oxford Cortical Structural Atlas, neonatal, resting state and diffusion MRI, structural T2 data collected, data available upon request but second data release available in website. relies in DHCP 2nd release.
