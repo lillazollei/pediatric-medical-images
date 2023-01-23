@@ -82,8 +82,6 @@ spatiotemporal atlas representing 23 to 37 weeks of gestation from N = 80 subjec
 <!-- is individual data available? --> 
 **Keywords**: fetal, atlas, T2w, probability
 
-<!-- LZ: not checked below --> 
-
 ### [Imperial Brain Development](https://brain-development.org/brain-atlases/neonatal-brain-atlases/neonatal-brain-atlas-serag/)
 spatiotemporal atlas representing 28 to 44 weeks post-menstrual age at time of scan from N = 204 premature subjects 
 
@@ -119,7 +117,6 @@ probabilistic Harvard-Oxford Cortical Structural Atlas, neonatal, resting state 
 0-2 years, intensity model, segmentation model, probability map. separate atlas constructed for three age groups of neonates, 1 year olds, 2 year olds. T1 and T2. data accessible via NITRC.  
 
 **Keywords**: neonates, atlas, T1, T2, segmentation, probability, intensity 
-
 
 
 ### [**NIH PEDS:**](https://www.sciencedirect.com/science/article/abs/pii/S105381190500710X?via%3Dihub)
