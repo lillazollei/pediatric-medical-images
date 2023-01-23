@@ -21,7 +21,6 @@ MRI data of 80 subjects from 2 sources, labels are available on a subset
 
 ### [**BCP:**](https://nda.nih.gov/experiment.html?id=1414&collectionId=2848)
 hybrid accelerated longitudinal and cross-sectional, 0-5 years, 500 subjects
-<!-- LZ: what atlas? --> 
 **Keywords**: longitudinal, cross-sectional, newborn, infant, toddler, T1w, T2w, dMRI 
 
 ### [HBCD](https://heal.nih.gov/research/infants-and-children/healthy-brain)
@@ -49,7 +48,7 @@ longitudinal (three timepoins: 5, 7, 9 years) multi-modal imaging study for lang
 
 **Keywords**: pediatric, fMRI, 3T, T1w, functional activity
 
-### [**Philadelphia:**](https://pubmed.ncbi.nlm.nih.gov/25840117/)
+### [**Philadelphia:**](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000607.v3.p2)
 8-21 years, 9500 subjects. Multimodal and task fMRI, structural MRI, DTI. 
 
 **Keywords**: adolescent, data-sharing, development, T1w, rsFMRI neuroimaging, multimodal, pediatric 
@@ -65,12 +64,6 @@ longitudinal (three timepoins: 5, 7, 9 years) multi-modal imaging study for lang
 **Keywords**: pediatric, T1w, T2w, dMRI, longitudinal, lexical processing
 
 ## Main Fetal / Pediatric Atlas List
-
-### [Synapse](https://www.synapse.org/#!Synapse:syn25887675/wiki/611424)
-spatio-temporal fetal brain atlas with 15 ages buckets (21-35wks): mean, mask, labels       
-<!-- LZ: how many labels? what are the labels? manual? from how many subjects?  -->
-
-**Keywords**: fetal, atlas, labels 
 
 ### [IMAGINE Fetal Brain Atlas](https://form.jotform.com/91364382958166)
 22 to 38 weeks of gestation. 67 scans, 81 subjects. Brain tissue and structure labels (cortical gray matter, white matter, subcortical gray matter structures, CSF, lateral ventricles, brainstem, and cerebellum labels). Automated. Unclear individual data avalability.
@@ -90,103 +83,67 @@ spatiotemporal atlas representing 28 to 44 weeks post-menstrual age at time of s
 ### [Imperial Brain Development (ALBERTS)](https://brain-development.org/brain-atlases/neonatal-brain-atlases/neonatal-brain-atlas-gousias/) 
 Neonates (20 brain atlases of term-born and preterm infants, of 50 regions each, together with their related MRIs). Manual. T1/T2 unclear. 
 
-**Keywords**: postnatal, newborn, preterm, fullterm, manual lables 
+**Keywords**: postnatal, newborn, atlas, preterm, fullterm, manual labels 
 
-### [**Nature Communications:**](https://www.nature.com/articles/s41467-021-22960-0) 
-probabilistic Harvard-Oxford Cortical Structural Atlas, neonatal, resting state and diffusion MRI, structural T2 data collected, data available upon request but second data release available in website. relies in DHCP 2nd release.
+### [**UNC:**](https://www.nitrc.org/projects/pediatricatlas)
+0-2 years, 95 subjects. Intensity model, segmentation model, probability map. Separate atlas constructed for three age groups (neonates, 1 year, 2 years)
 
-**Keywords**: neonates, atlas, MRI, T2, structural, resting-state
+**Keywords**: neonates, atlas, T1w, T2w, segmentation, probability, intensity 
 
-### [**UNC:**](https://www.med.unc.edu/bric/ideagroup/free-softwares/unc-infant-0-1-2-atlases/)
-0-2 years, intensity model, segmentation model, probability map. separate atlas constructed for three age groups of neonates, 1 year olds, 2 year olds. T1 and T2. data accessible via NITRC.  
+### [**NIH PEDS:**](https://pubmed.ncbi.nlm.nih.gov/16376577/)
+7 days - 18 years, 500 subjects. Longitudinal/multimodal MRI transferred to automated MRI segmentation.
 
-**Keywords**: neonates, atlas, T1, T2, segmentation, probability, intensity 
+**Keywords**: pediatric, T1w, T2w, dMRI, atlas, database, automated, multi-center, statistical
 
+### [**iSeg-2017:**](https://iseg2017.web.unc.edu/download/)
+6 months, 23 subjects. Comparison of (semi-)automatic algorithms for the segmentation of 6-month infant brain tissues and the measurement of corresponding structures.
 
-### [**NIH PEDS:**](https://www.sciencedirect.com/science/article/abs/pii/S105381190500710X?via%3Dihub)
-7 days - 14 years, longitudinal & multimodal MRI transferred to automated MRI segmentation, 3D statistical maps, remote interrogation. data available to scientific community (NITRC) 
+**Keywords**: T1w, T2w, automatic, segmentation, comparison, atlas 
 
-**Keywords**:pediatric, MRI, database, brain behavior, multi-center
+### [**iSeg-2019:**](https://iseg2019.web.unc.edu/data/)
+Extension of previous set. Only training data available. 
 
-### [**iSeg-2017:**](https://iseg2017.web.unc.edu/)
-6 months, T1 and T2, comparison of (semi-)automatic algorithms for the segmentation of 6-month infant brain tissues and the measurement of corresponding structures using T1- and T2-weighted brain MRI scans. zip files available for download. 
+**Keywords**: multiple sites, atlas, T1w, T2w 
 
-**Keywords**: T1, T2, automatic, segmentation, comparison, atlas 
+### [**Brain Development 2:**](https://brain-development.org/brain-atlases/neonatal-brain-atlases/)
+29-44 weeks, T2w. segmentations of 153 neonatal subjects. 
 
-### [**iSeg-2019:**](https://iseg2019.web.unc.edu/)
-6 months, T1 and T2, similar to iSeg-2017. automatic segmentation algorithms on 6-month infant brain MRI from multiple sites. training, validation, testing data sets available. 
+**Keywords**: neonates, T2w, segmentation, kernel method, intensity, probability maps, atlas 
 
-**Keywords**: multiple sites, atlas, T1, T2 
+### [**Brain Development 6:**](https://brain-development.org/brain-atlases/pediatric-brain-atlases/)
+2 years, 83 regions, MRI. 3D atlases of brain at different ages to monitor cerebral growth and development. Automatic segmentation.
 
-### [**Brain Development 2 (Atlas):**](https://brain-development.org/brain-atlases/neonatal-brain-atlases/)
-29-44 weeks, T2. segmentations of 153 neonatal subjects at different ages using a kernel-based smoothing method. average intensity template and corresponding tissue probability maps generated. data accessible on website. 
+**Keywords**: pediatric, atlas, 3D, fMRI, automated, cerebral 
 
-**Keywords**: neonatal, T2, segmentation, kernel method, intensity, probability maps 
+### [**Calgary Preschool:**](https://osf.io/axz5r/files/osfstorage)
+2-8 years, rsfMRI, DTI, anatomical imaging, arterial spin labeling to create baseline data used to understand cognitive and behavioral development.d
 
-### [**INDI - UW Madison:**](http://fcon_1000.projects.nitrc.org/indi/PRIME/uwmadison.html)
-0.8-4.5 years, T1, resting state, diffusion weighted. anatomical, diffusion, and resting-state fMRI data from 592 macaque monkeys at two different sites. data downloadable on website. 
+**Keywords**: pediatric, rsfMRI, dMRI, anatomical, labeling, development, atlas 
 
-**Keywords**: T1, diffusion, pediatric, atlas, fMRI, anatomical, monkeys 
+### [**OpenNeuro:**](https://openneuro.org/datasets/ds000228/versions/1.1.0/download)
+3-12 years, MRI. Reverse correlation analysis conducted in adult and children samples using average response in ToM brain regions and pain matrix. 
 
-### [**Brain Development 6 (Atlas):**](https://brain-development.org/brain-atlases/pediatric-brain-atlases/)
-2 years, MRI. 3D atlases of brain at different ages to monitor cerebral growth and development. automatic segmentation on neonatal/pediatric brain images. data downloadable after filling out personal information and license agreement. 
+**Keywords**: pediatric, MRI, atlas, reverse analysis, ToM region, pain matrix 
 
-**Keywords**: pediatric, atlas, 3D, automatic, cerebral 
+### [**McGill NIH:**](https://www.bic.mni.mcgill.ca/nihpd_info/info2/data_access.html)
+4 years, anatomical MRI, DTI, MRS. seven year study. 
 
-### [**Calgary Preschool:**](https://osf.io/axz5r/)
-2-8 years, rsfMRI, diffusion tensor imaging, anatomical imaging, arterial spin labeling to create baseline data used to understand cognitive and behavioral development. deviation from normal development in children also shown. data available in osf. 
+**Keywords**: atlas, dMRI, MRS, pediatric, MR spectroscopy, development 
 
-**Keywords**: pediatric, MRI, DTI, anatomical, labeling, development, atlas 
+### [**NIST:**](https://www.bic.mni.mcgill.ca/ServicesAtlases/NIHPD-obj1#download)
+4.5-18.5 years, T1 applied to T2. Unbiased standard magnetic resonance imaging template brain volume for pediatric data. 
 
-### [**OpenNeuro:**](https://openneuro.org/datasets/ds000228/versions/1.1.0)
-3-12 years, MRI. reverse correlation analysis conducted in adult and children samples using average response in ToM brain regions and pain matrix. onsets and durations noted in TRs. data available in OpenNeuro. 
-
-**Keywords**: pediatric, MRI, reverse analysis, ToM region, pain matrix 
-
-### [**McGill NIH:**](https://www.bic.mni.mcgill.ca/nihpd_info/info2/index.html)
-4 years, anatomical MRI, diffusion tensor imaging, MRS to map pediatric brain development. seven year study. brain MR and behavioral data analyzed at data coordinating center, MR spectroscopy and DTI analyzed. data available to download. 
-
-**Keywords**: MRI, DTI, MRS, pediatric, MR spectroscopy, development 
-
-### [**HBM:**](https://brainanddevelopment.nl/wp-content/uploads/2019/08/Wierenga_et_al_2017_Longitudinal_BrainNetwork_Children.pdf)
-4-13 years, longitudinal diffusion weighted scans. developmental changes in connectome characterized by estimating age-related changes in fractional anisotropy (FA) for reconstructed fibers (edges) between 68 cortical regions. some scans derived from the Pediatric Longitudinal Imaging, Neurocognition, and Genetics (PLING) study. only data analysis available in paper. 
-
-**Keywords**: longitudinal, diffusion weighted, pediatric, fractional antisotropy, cortical, atlas 
-
-### [**NIST:**](http://nist.mni.mcgill.ca/pediatric-atlases-4-5-18-5y/)
-4.5-18.5 years, T1 applied to T2. unbiased standard magnetic resonance imaging template brain volume for pediatric data. data usage available in software section. 
-
-**Keywords**: T1, T2, MRI, template, atlas, pediatric 
-
-### [**IBIS:**](https://www.sciencedirect.com/science/article/pii/S2213158220303880?via%3Dihub)
-6-24 years, multi-site MRI, longitudinal tensor based morphometry of presymptomatic period of ASD noted. differences in voxelwise growth trajectories of children with ASD examined. only parts of data available in paper. 
-
-**Keywords**: MRI, multi-site, longitudinal, morphometry, voxelwise growth, pediatric, atlas 
+**Keywords**: T1w, T2w, template, atlas, pediatric 
 
 ### [**ABIDE II:**](http://fcon_1000.projects.nitrc.org/indi/abide/abide_II.html)
-6-64 years, resting-state & structural fMRI, 19 sites. two collections include longitudinal samples of data collected from 38 individuals at two time points (1-4 year interval). data available on NITRC. 
+6-64 years, resting-state & structural fMRI, 19 sites. Two collections include longitudinal samples of data collected from 38 individuals at two time points (1-4 year interval). 
 
-**Keywords**: large age range, fMRI, multi-site, longitudinal, atlas 
-
-### [**NKI:**](https://pubmed.ncbi.nlm.nih.gov/23087608/)
-6-85 years, advanced neuroimaging, deeply phenotyped samples. no other info due to limited NIH paper availability. 
-
-**Keywords**: large age range, neuroimaging, phenotype 
+**Keywords**: large age range, rsfMRI, multi-site, longitudinal, atlas 
 
 ### [**IBSR:**](https://www.nitrc.org/projects/ibsr)
-7+ years, T1 in talairach orientation, manually-guided and labeled expert segmentation results along with magnetic resonance brain image data. data available on NITRC. 
+7+ years, T1 in talairach orientation, manually-guided and labeled expert segmentation results along with magnetic resonance brain image data. 
 
-**Keywords**: T1, pediatric, segmentation, manual, MRI, atlas
-
-### [**INDI-AM:**](http://fcon_1000.projects.nitrc.org/indi/PRIME/amu.html)
-7-8 years, T1, T2, QSM, diffusion and structural data from monkeys. data downloadable in website. 
-
-**Keywords**: T1, T2, MRI, QSM, DTI, structural, monkeys 
-
-### [**ADHD-200:**](https://pubmed.ncbi.nlm.nih.gov/27423255/)
-7-27 years, resting state and functional fMRI, 4D volumes, multiple analytical pipelines, preprocessed data. data available on NITRC. maps of 10 intrinsic connectivity networks, fractional amplitude of low frequency fluctuation, and regional homogeneity, and grey matter density map provided. 
-
-**Keywords**: large age range, fMRI, resting state, functional, piepelines, 4D, atlas 
+**Keywords**: T1w, pediatric, segmentation, manual, atlas
 
 ### [**ABIDE I:**](http://fcon_1000.projects.nitrc.org/indi/abide/abide_I.html)
 7-64 years (median 14 years), resting-state fMRI and structural MRI across multiple sites. similar to ABIDE II above. data available on website. 
@@ -194,24 +151,14 @@ probabilistic Harvard-Oxford Cortical Structural Atlas, neonatal, resting state 
 **Keywords**: fMRI, structural, multiple sites, atlas 
 
 ### [**ABCD:**](https://abcdstudy.org/about/)
-9-10 years, T1 images of four different task studies. data available on NIMH data archive. 
+9-10 years, T1 images of four different task studies. Data not yet available. 
 
-**Keywords**: T1, pediatric, tasks, atlas, 4D 
+**Keywords**: T1w, pediatric, tasks, atlas, 4D 
 
 ### [**Dev-CoG:**](http://devcog.mrn.org/)
-9-15 years, multimodal/task/longitudinal fMRI, MEG, DNA, behaviour and genetics analyses. quantification of brain dynamics in childhood. project recent and still ongoing, data not yet available. 
+9-15 years, multimodal/task/longitudinal fMRI, MEG, DNA, behaviour and genetics analyses. Project recent and still ongoing. 
 
-**Keywords**: pediatric, adolescent, fMRI, MEG, DNA, longitudinal, multimodal, quantification 
+**Keywords**: pediatric, adolescent, atlas, fMRI, MEG, DNA, longitudinal, multimodal, quantification 
 
 # Mixed Age Groups Imaging List
-**[LONI:](https://resource.loni.usc.edu/collaboration/featured-collaborations/pediatric-brain-project/)**
-0-3 Years, 7-9 Years, Blood-Oxygenation-Level Dependent MRI, Arterial Spin Labeling
-<!-- LZ: data does not seem to be downloadable: https://resource.loni.usc.edu/resources/downloads/ -->
-
-**[USC:](https://jerlab.sc.edu/projects/neurodevelopmental-mri-database/)**
-2 Weeks - 12 Months, 15 Months - 2 Years, 4-10 Years, MRI Templates & Segmented Volumes
-
-**[PBTA:](https://cbtn.org/pediatric-brain-tumor-atlas)**
-Wide Range of Age Groups, MRI & Radiology Report 
-<!-- LZ: Cannot find any MRI data reference -->
 
