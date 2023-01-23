@@ -12,15 +12,15 @@ MRI data of 80 subjects from 2 sources, labels are available on a subset
 
 **Keywords**: fetal, BIDS, T2w, labels
 
-### [dHCP 3rd release](http://www.developingconnectome.org/data-release/third-data-release/)
+### [dHCP 3rd release](https://biomedia.github.io/dHCP-release-notes/download.html)
 <!-- **[1st Release](http://www.developingconnectome.org/project/data-release-user-guide/)** -->
 <!-- **[2nd Release](http://www.developingconnectome.org/second-data-release/)** -->
 885+ postnatal brain MRI (T1w,T2w,dMRI and rsfMRI) of infants; processed with own pipeline    
 
 **Keywords**: longitudinal, newborn, large, premature, postnatal, T1w, T2w, dMRI, rsfMRI, labels
 
-### [**BCP:**](https://nda.nih.gov/edit_collection.html?id=2848)
-hybrid accelerated longitudinal and cross-sectional, 0-5 years, N = 500 subjects, extended from human connectome project
+### [**BCP:**](https://nda.nih.gov/experiment.html?id=1414&collectionId=2848)
+hybrid accelerated longitudinal and cross-sectional, 0-5 years, 500 subjects
 <!-- LZ: what atlas? --> 
 **Keywords**: longitudinal, cross-sectional, newborn, infant, toddler, T1w, T2w, dMRI 
 
@@ -28,12 +28,6 @@ hybrid accelerated longitudinal and cross-sectional, 0-5 years, N = 500 subjects
 longitudinal infant data that will be collected over the first ten years of life   
 
 **Keywords**: COMING
-
-### [Imperial Brain Development (ALBERTS)](https://brain-development.org/brain-atlases/neonatal-brain-atlases/neonatal-brain-atlas-gousias/)
-neonates (20 brain atlases of term-born and preterm infants, of 50 regions each, together with their related MRIs)
-
-**Keywords**: postnatal, newborn, preterm, fullterm, semi-manual lables
-<!-- LZ: T1 or T2??  -->
 
 ### [HCP-D v2.0](https://www.humanconnectome.org/study/hcp-lifespan-development/data-releases)
 5-21 years, brain development in healthy cohort, multi-modal imaging 
@@ -51,28 +45,25 @@ longitudinal (three timepoins: 5, 7, 9 years) multi-modal imaging study for lang
 
 **Keywords**: longitudinal, pediatric, T1w, dMRI, tFMRI
 
-<!-- LZ: RESUME FROM HERE --> 
+### [**OpenNeuro 4:**](https://openneuro.org/datasets/ds003126/versions/1.2.0/download)
+8-13 Years, T1w and 3 Tesla fMRI data derived for measuring reading-related functional activity. 58 subjects. 
 
-
-### [**OpenNeuro 4:**](https://openneuro.org/datasets/ds003126/versions/1.2.0)
-8-13 Years, T1 and 3 Tesla fMRI data derived for measuring reading-related functional activity. data available on OpenNeuro. 
-
-**Keywords**: pediatric, fMRI, 3T, T1, functional activity
+**Keywords**: pediatric, fMRI, 3T, T1w, functional activity
 
 ### [**Philadelphia:**](https://pubmed.ncbi.nlm.nih.gov/25840117/)
-8-21 years, multimodal and task fMRI combined with cognitive phenotypes and genomics. data access link unclear due to limited access to NIH paper. 
+8-21 years, 9500 subjects. Multimodal and task fMRI, structural MRI, DTI. 
 
-**Keywords**: adolescence, data-sharing, development, MRI, neuroimaging, multimodal, pediatric 
+**Keywords**: adolescent, data-sharing, development, T1w, rsFMRI neuroimaging, multimodal, pediatric 
 
-### [**OpenNeuro 3:**](https://openneuro.org/datasets/ds003499/versions/1.0.1)
-8-25 years, MRI, developmental changes in prefrontal cortex. data available on OpenNeuro. 
+### [**OpenNeuro 3:**](https://openneuro.org/datasets/ds003499/versions/1.0.1/download)
+8-25 years, 90 subjects. fMRI, developmental changes in prefrontal cortex. 
 
-**Keywords**: MRI, pediatric, adolescent, developmental 
+**Keywords**: fMRI, pediatric, adolescent, developmental 
 
-### [**OpenNeuro 1:**](https://openneuro.org/datasets/ds001894/versions/1.2.2)
-10.5 years, T1, T2, DTI, longitudinal neuroimaging dataset on lexical processing in children. 
+### [**OpenNeuro 1:**](https://openneuro.org/datasets/ds001894/versions/1.2.2/download)
+10.5 years, T1w, T2w, DTI, longitudinal neuroimaging dataset on lexical processing in children. 
 
-**Keywords**: pediatric, dataset, T1, T2, DTI, longitudinal, lexical processing
+**Keywords**: pediatric, T1w, T2w, dMRI, longitudinal, lexical processing
 
 ## Main Fetal / Pediatric Atlas List
 
@@ -81,8 +72,8 @@ spatio-temporal fetal brain atlas with 15 ages buckets (21-35wks): mean, mask, l
 <!-- LZ: how many labels? what are the labels? manual? from how many subjects?  -->
 **Keywords**: fetal, atlas, labels 
 
-### [IMAGINE Fetal Brain Atlas](http://crl.med.harvard.edu/research/fetal_brain_atlas/)
-fetal brain atlases representing 22 to 38 weeks of gestation from N = 67 scans   
+### [IMAGINE Fetal Brain Atlas](https://form.jotform.com/91364382958166)
+22 to 38 weeks of gestation. 67 scans   
 <!-- LZ: how many labels? manual? how many atlases? is individual data avalable? --> 
 **Keywords**: fetal, atlas, labels, dMRI, T2w
 
@@ -102,6 +93,12 @@ spatiotemporal atlas representing 28 to 44 weeks post-menstrual age at time of s
 spatiotemporal structural atlas for the neonatal brain with 87 labelled structures of the developing brain; N = 420 brain MRI images; 37-40 weeks age-at-scan
 
 **Keywords**: postnatal, newborn, atlas, labels, 4D
+
+### [Imperial Brain Development (ALBERTS)](https://brain-development.org/brain-atlases/neonatal-brain-atlases/neonatal-brain-atlas-gousias/)
+neonates (20 brain atlases of term-born and preterm infants, of 50 regions each, together with their related MRIs)
+
+**Keywords**: postnatal, newborn, preterm, fullterm, semi-manual lables
+<!-- LZ: T1 or T2??  -->
 
 ### [**Boston Children's:**](https://www.frontiersin.org/articles/10.3389/fped.2017.00159/full)
 age-specific atlases on premature infants (around 33 Weeks), resting-state T1, mapped using neural networks and resting state networks, convertible to structural and functional in dicom images format. only some parts of dataset viewable via research article. 
