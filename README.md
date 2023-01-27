@@ -19,7 +19,7 @@ MRI data of 80 subjects from 2 sources, labels are available on a subset
 
 **Keywords**: longitudinal, newborn, large, premature, postnatal, T1w, T2w, dMRI, rsfMRI, labels
 
-### [**BCP:**](https://nda.nih.gov/experiment.html?id=1414&collectionId=2848)
+### [BCP](https://nda.nih.gov/edit_collection.html?id=2848)
 hybrid accelerated longitudinal and cross-sectional, 0-5 years, 500 subjects
 
 **Keywords**: longitudinal, cross-sectional, newborn, infant, toddler, T1w, T2w, dMRI 
@@ -64,10 +64,26 @@ longitudinal (three timepoins: 5, 7, 9 years) multi-modal imaging study for lang
 
 **Keywords**: pediatric, T1w, T2w, dMRI, longitudinal, lexical processing
 
+### [**iSeg-2017:**](https://iseg2017.web.unc.edu/download/)
+6 months, 23 subjects. Comparison of (semi-)automatic algorithms for the segmentation of 6-month infant brain tissues and the measurement of corresponding structures.
+
+**Keywords**: T1w, T2w, automatic, segmentation, comparison, atlas 
+
+### [**iSeg-2019:**](https://iseg2019.web.unc.edu/data/)
+Extension of previous set. Only training data available. 
+
+**Keywords**: multiple sites, atlas, T1w, T2w 
+
+### [**Brain Development 6:**](https://brain-development.org/brain-atlases/pediatric-brain-atlases/)
+2 years, 83 regions, MRI. 3D atlases of brain at different ages to monitor cerebral growth and development. Automatic segmentation.
+
+**Keywords**: pediatric, atlas, 3D, fMRI, automated, cerebral, AAL labels 
+
+
 ## Main Fetal / Pediatric Atlas List
 
 ### [IMAGINE Fetal Brain Atlas](https://form.jotform.com/91364382958166)
-22 to 38 weeks of gestation. 67 scans, 81 subjects. Brain tissue and structure labels (cortical gray matter, white matter, subcortical gray matter structures, CSF, lateral ventricles, brainstem, and cerebellum labels). Automated. Unclear individual data avalability.
+22 to 38 weeks of gestation. 67 scans, 81 subjects. Brain tissue and structure labels (cortical gray matter, white matter, subcortical gray matter structures, CSF, lateral ventricles, brainstem, and cerebellum labels). Automated. 
 
 **Keywords**: fetal, atlas, labels, automated dMRI, T2w
 
@@ -86,8 +102,8 @@ Neonates (20 brain atlases of term-born and preterm infants, of 50 regions each,
 
 **Keywords**: postnatal, newborn, atlas, preterm, fullterm, manual labels 
 
-### [**UNC:**](https://www.nitrc.org/projects/pediatricatlas)
-0-2 years, 95 subjects. Intensity model, segmentation model, probability map. Separate atlas constructed for three age groups (neonates, 1 year, 2 years)
+### [UNC-0-1-2 Infant atlases](https://www.nitrc.org/projects/pediatricatlas)
+From 95 subjects using longitudinal images. Intensity model, segmentation model, probability map. Separate atlas constructed for three age groups (neonates, 1 year, 2 years)
 
 **Keywords**: neonates, atlas, T1w, T2w, segmentation, probability, intensity 
 
@@ -96,25 +112,13 @@ Neonates (20 brain atlases of term-born and preterm infants, of 50 regions each,
 
 **Keywords**: pediatric, T1w, T2w, dMRI, atlas, database, automated, multi-center, statistical
 
-### [**iSeg-2017:**](https://iseg2017.web.unc.edu/download/)
-6 months, 23 subjects. Comparison of (semi-)automatic algorithms for the segmentation of 6-month infant brain tissues and the measurement of corresponding structures.
 
-**Keywords**: T1w, T2w, automatic, segmentation, comparison, atlas 
-
-### [**iSeg-2019:**](https://iseg2019.web.unc.edu/data/)
-Extension of previous set. Only training data available. 
-
-**Keywords**: multiple sites, atlas, T1w, T2w 
 
 ### [**Brain Development 2:**](https://brain-development.org/brain-atlases/neonatal-brain-atlases/)
 29-44 weeks, T2w. segmentations of 153 neonatal subjects. 
 
 **Keywords**: neonates, T2w, segmentation, kernel method, intensity, probability maps, atlas 
 
-### [**Brain Development 6:**](https://brain-development.org/brain-atlases/pediatric-brain-atlases/)
-2 years, 83 regions, MRI. 3D atlases of brain at different ages to monitor cerebral growth and development. Automatic segmentation.
-
-**Keywords**: pediatric, atlas, 3D, fMRI, automated, cerebral 
 
 ### [**Calgary Preschool:**](https://osf.io/axz5r/files/osfstorage)
 2-8 years, rsfMRI, DTI, anatomical imaging, arterial spin labeling to create baseline data used to understand cognitive and behavioral development.d
@@ -161,5 +165,4 @@ Extension of previous set. Only training data available.
 
 **Keywords**: pediatric, adolescent, atlas, fMRI, MEG, DNA, longitudinal, multimodal, quantification 
 
-# Mixed Age Groups Imaging List
 
