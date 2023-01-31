@@ -5,7 +5,9 @@ This page is to keep track of publicly available pediatric/fetal brain MRI imagi
 
 Please do not hesitate to reach out for any feedback or questions! 
 
+###############################################
 ## Main Fetal / Pediatric Medical Imaging List
+###############################################
 
 ### [FeTA 2.1](https://www.synapse.org/#!Synapse:syn25649159/files/)
 MRI data of 80 subjects from 2 sources, labels are available on a subset   
@@ -24,6 +26,16 @@ hybrid accelerated longitudinal and cross-sectional, 0-5 years, 500 subjects
 
 **Keywords**: longitudinal, cross-sectional, newborn, infant, toddler, T1w, T2w, dMRI 
 
+### [Imperial Brain Development (ALBERTS)](https://brain-development.org/brain-atlases/neonatal-brain-atlases/neonatal-brain-atlas-gousias/) 
+Neonates (N = 20), term-born and preterm infants, 50 regions each, manual annotation, T2w. 
+
+**Keywords**: newborn, preterm, fullterm, manual labels, T2w
+
+### [Imperial Brain Development (2-yr-olds)](https://brain-development.org/brain-atlases/pediatric-brain-atlases/)
+2-year-olds, 83 regions, MRI, automated segmentation.
+
+**Keywords**: pediatric, automated segmentation, AAL labels, T1w?
+
 ### [HBCD](https://heal.nih.gov/research/infants-and-children/healthy-brain)
 longitudinal infant data that will be collected over the first ten years of life   
 
@@ -35,91 +47,95 @@ longitudinal infant data that will be collected over the first ten years of life
 **Keywords**: cross-sectional, pediatric, adolescent, young adult, T1w, T2w, dMRI, rsFMRI, tFMRI, ASL 
 
 ### [HBN v10.0](http://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/sharing_neuro.html#Direct%20Down)
-5-21 years, typical NYC population, neuroimaging and phenotypic data, goal N = 10000
+Healthy Brain Network from the Child Mind Institute, 5-21 years, typical NYC population, neuroimaging and phenotypic data, goal N = 10000
 
 **Keywords**: pediatric, adolescent, young adult, T1w, T2w, dMRI, rsFMRI, EEG, IN PROGRESS 
 
-### [OpenNeuro 2](https://openneuro.org/datasets/ds001894/versions/1.4.1)
-longitudinal (three timepoins: 5, 7, 9 years) multi-modal imaging study for language processing 
+### [**Banfi-OpenNeuro:**](https://openneuro.org/datasets/ds003126/versions/1.2.0/download)
+8-13 Years, T1w and 3 Tesla fMRI data derived for measuring reading-related functional activity, N = 58 subjects. 
 
-**Keywords**: longitudinal, pediatric, T1w, dMRI, tFMRI
-
-### [**OpenNeuro 4:**](https://openneuro.org/datasets/ds003126/versions/1.2.0/download)
-8-13 Years, T1w and 3 Tesla fMRI data derived for measuring reading-related functional activity. 58 subjects. 
-
-**Keywords**: pediatric, fMRI, 3T, T1w, functional activity
+**Keywords**: pediatric, T1w, tfMRI
 
 ### [**Philadelphia:**](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000607.v3.p2)
-8-21 years, 9500 subjects. Multimodal and task fMRI, structural MRI, DTI. 
+"Neurodevelopmental Genomics: Trajectories of Complex Phenotypes": 8-21 years, 9496 subjects. Multimodal and task fMRI, ASL, structural MRI, DTI. 
 
-**Keywords**: adolescent, data-sharing, development, T1w, rsFMRI neuroimaging, multimodal, pediatric 
+**Keywords**: adolescent, T1w, dMRI, ASL, rsFMRI
 
-### [**OpenNeuro 3:**](https://openneuro.org/datasets/ds003499/versions/1.0.1/download)
-8-25 years, 90 subjects. fMRI, developmental changes in prefrontal cortex. 
+### [**Nussenbaum-OpenNeuro:**](https://openneuro.org/datasets/ds003499/versions/1.0.1/download)
+8-25 years, 90 subjects, tfMRI, developmental changes in prefrontal cortex
 
-**Keywords**: fMRI, pediatric, adolescent, developmental 
+**Keywords**: tfMRI, T1w, T2w, PD, adolescent, developmental 
 
-### [**OpenNeuro 1:**](https://openneuro.org/datasets/ds001894/versions/1.2.2/download)
-10.5 years, T1w, T2w, DTI, longitudinal neuroimaging dataset on lexical processing in children. 
+### [**Booth-OpenNeuro:**](https://openneuro.org/datasets/ds001894/versions/1.2.2/download)
+N = 188, 10.5 years, T1w, T2w, dMRI, tMRI, longitudinal neuroimaging dataset on lexical processing in children. 
 
-**Keywords**: pediatric, T1w, T2w, dMRI, longitudinal, lexical processing
+**Keywords**: pediatric, T1w, T2w, dMRI, tFMRI, longitudinal
 
 ### [**iSeg-2017:**](https://iseg2017.web.unc.edu/download/)
-6 months, 23 subjects. Comparison of (semi-)automatic algorithms for the segmentation of 6-month infant brain tissues and the measurement of corresponding structures.
+### [**iSeg-2019 (from BCP):**](https://iseg2019.web.unc.edu/data/)
+Training data set for MICCAI segmentation challenge; N = 10+13 6-mo-old infants; 4 labels (bg, csf, wm, gm) along with T1w and T2w
 
-**Keywords**: T1w, T2w, automatic, segmentation, comparison, atlas 
-
-### [**iSeg-2019:**](https://iseg2019.web.unc.edu/data/)
-Extension of previous set. Only training data available. 
-
-**Keywords**: multiple sites, atlas, T1w, T2w 
-
-### [**Brain Development 6:**](https://brain-development.org/brain-atlases/pediatric-brain-atlases/)
-2 years, 83 regions, MRI. 3D atlases of brain at different ages to monitor cerebral growth and development. Automatic segmentation.
-
-**Keywords**: pediatric, atlas, 3D, fMRI, automated, cerebral, AAL labels 
+**Keywords**: T1w, T2w, segmentation labels 
+ 
 
 ### [**Calgary Preschool:**](https://osf.io/axz5r/files/osfstorage)
-2-8 years, rsfMRI, DTI, anatomical imaging, arterial spin labeling to create baseline data used to understand cognitive and behavioral development.d
+2-8 years, rsfMRI, dMRI, MRI, ASL to create baseline data used to understand cognitive and behavioral development
 
 **Keywords**: pediatric, rsfMRI, dMRI, anatomical, labeling, development
+
+### [**ABIDE I:**](http://fcon_1000.projects.nitrc.org/indi/abide/abide_I.html)
+7-64 years (median 14 years), resting-state fMRI and structural MRI across multiple sites, N = 1112 dataset (539 from individuals with ASD and 573 from typical controls)
+
+**Keywords**: rsfMRI, MRI, multi-site
 
 ### [**ABIDE II:**](http://fcon_1000.projects.nitrc.org/indi/abide/abide_II.html)
 6-64 years, resting-state & structural fMRI, 19 sites. Two collections include longitudinal samples of data collected from 38 individuals at two time points (1-4 year interval). 
 
 **Keywords**: large age range, rsfMRI, multi-site, longitudinal
 
-### [**ABIDE I:**](http://fcon_1000.projects.nitrc.org/indi/abide/abide_I.html)
-7-64 years (median 14 years), resting-state fMRI and structural MRI across multiple sites. similar to ABIDE II above. data available on website. 
-
-**Keywords**: fMRI, structural, multiple sites
-
-### [**ABCD:**](https://abcdstudy.org/about/)
-9-10 years, T1 images of four different task studies. Data not yet available. 
+### [**ABCD:**](https://nda.nih.gov/abcd/)
+9-19 years, N = 12,000,  MRI, tfMRI, dMRI, release 4.0 (2021)
 
 **Keywords**: T1w, pediatric, tasks, atlas, 4D 
 
-## Main Fetal / Pediatric Atlas List
+### [**NIHPD:**](https://www.bic.mni.mcgill.ca/nihpd_info/info2/data_access.html)
+approximately 550 children, aged at first scan from 10 days to 18 years and 3 months; min 3 timepoints
 
-### [IMAGINE Fetal Brain Atlas](https://form.jotform.com/91364382958166)
+**Keywords**: sMRI, dMRI, MRS, newborn, infant, adolescent, longitudinal 
+
+### [**Richardson-movie:**](https://openneuro.org/datasets/ds000228/versions/1.1.0/download)
+3-12 years and adults, MRI, fMRI while watching movie 
+
+**Keywords**: pediatric, MRI, fMRI
+
+#####################################
+## Main Fetal / Pediatric Atlas List
+#####################################
+
+### [CRL Fetal Brain Atlas](https://form.jotform.com/91364382958166)
 22 to 38 weeks of gestation. 67 scans, 81 subjects. Brain tissue and structure labels (cortical gray matter, white matter, subcortical gray matter structures, CSF, lateral ventricles, brainstem, and cerebellum labels). Automated. 
 
 **Keywords**: fetal, atlas, labels, automated dMRI, T2w
 
-### [Imperial Fetal Brain Development](https://brain-development.org/brain-atlases/fetal-brain-atlases/)
-spatiotemporal atlas representing 23 to 37 weeks of gestation from N = 80 subjects. Individual data unavailable. 
+### [Fetal Brain Development](https://brain-development.org/brain-atlases/fetal-brain-atlases/)
+spatiotemporal atlas, 23 to 37 weeks of gestation, from N = 80 subjects, T2w templates and tissue probability maps (brain mask, cortex, hemispheres, csf and ventricles)
 
 **Keywords**: fetal, atlas, T2w, probability
 
-### [Imperial Brain Development](https://brain-development.org/brain-atlases/neonatal-brain-atlases/neonatal-brain-atlas-serag/#Download) 
-spatiotemporal atlas representing 28 to 44 weeks post-menstrual age at time of scan from N = 204 premature subjects 
+### [Imperial Brain Development (Murgasova)](https://brain-development.org/brain-atlases/neonatal-brain-atlases/neonatal-brain-atlas-murgasova/) 
+From N = 153 newborns (29 to 44 weeks of gestation), six labels (cortex, white matter, subcortical gray matter, brainstem and cerebellum); average intensity template as well as the corresponding tissue probability map; kernel-based smoothing method
 
-**Keywords**: postnatal, premature, atlas, T1w, T2w 
+**Keywords**: newborns, segmentation, probability maps
 
-### [Imperial Brain Development (ALBERTS)](https://brain-development.org/brain-atlases/neonatal-brain-atlases/neonatal-brain-atlas-gousias/) 
-Neonates (20 brain atlases of term-born and preterm infants, of 50 regions each, together with their related MRIs). Manual. T1/T2 unclear. 
+### [Imperial Brain Development](https://brain-development.org/brain-atlases/neonatal-brain-atlases/neonatal-brain-atlas-serag/) 
+spatiotemporal 4D atlas representing 28 to 44 weeks post-menstrual age at time of scan from N = 204 premature subjects 
 
-**Keywords**: postnatal, newborn, atlas, preterm, fullterm, manual labels 
+**Keywords**: postnatal, premature, atlas, T1w, T2w  
+
+### [Imperial Brain Development (Makropoulos)](https://brain-development.org/brain-atlases/neonatal-brain-atlases/neonatal-brain-atlas-makropoulos/) 
+spatio-temporal structural atlas for the neonatal brain; 87 labelled structures; from N=420 brain MR images, using ALBERTS and automated segmentation
+
+**Keywords**: postnatal, premature, fullterm, atlas, T2w, segmentation 
 
 ### [UNC-0-1-2 Infant atlases](https://www.nitrc.org/projects/pediatricatlas)
 From 95 subjects using longitudinal images. Intensity model, segmentation model, probability map. Separate atlas constructed for three age groups (neonates, 1 year, 2 years)
@@ -131,27 +147,10 @@ From 95 subjects using longitudinal images. Intensity model, segmentation model,
 
 **Keywords**: pediatric, T1w, T2w, dMRI, atlas, database, automated, multi-center, statistical
 
-
-### [**Brain Development 2:**](https://brain-development.org/brain-atlases/neonatal-brain-atlases/) 
-First data set. 29-44 weeks, T2w. segmentations of 153 neonatal subjects. 
-
-**Keywords**: neonates, T2w, segmentation, kernel method, intensity, probability maps, atlas 
-
-
-### [**OpenNeuro:**](https://openneuro.org/datasets/ds000228/versions/1.1.0/download)
-3-12 years, MRI. Reverse correlation analysis conducted in adult and children samples using average response in ToM brain regions and pain matrix. 
-
-**Keywords**: pediatric, MRI, atlas, reverse analysis, ToM region, pain matrix 
-
-### [**McGill NIH:**](https://www.bic.mni.mcgill.ca/nihpd_info/info2/data_access.html)
-4 years, anatomical MRI, DTI, MRS. seven year study. 
-
-**Keywords**: atlas, dMRI, MRS, pediatric, MR spectroscopy, development 
-
-### [**NIST:**](https://www.bic.mni.mcgill.ca/ServicesAtlases/NIHPD-obj1#download)
-4.5-18.5 years, T1 applied to T2. Unbiased standard magnetic resonance imaging template brain volume for pediatric data. Volumes created from NIH-Peds data.
-
-**Keywords**: T1w, T2w, template, atlas, pediatric 
+### [**NIST NIHPD-Obj1-atlas:**](https://www.bic.mni.mcgill.ca/ServicesAtlases/NIHPD-obj1#download)
+In 4.5-18.5 year age range, average T1w, T2w, PDw maps normalized between 0 and 100 and tissue probability maps, with values between 0 and 1. Source: NIHPD Objective 1
+ 
+**Keywords**: T1w, T2w, tissue, template, pediatric, adolescent, atlas
 
 ### [**IBSR:**](https://www.nitrc.org/projects/ibsr)
 7+ years, T1 in talairach orientation, manually-guided and labeled expert segmentation results along with magnetic resonance brain image data. 
