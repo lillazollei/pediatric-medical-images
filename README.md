@@ -30,7 +30,7 @@ longitudinal infant data that will be collected over the first ten years of life
 **Keywords**: COMING
 
 ### [HCP-D v2.0](https://www.humanconnectome.org/study/hcp-lifespan-development/data-releases)
-5-21 years, brain development in healthy cohort, multi-modal imaging 
+5-21 years, 652 subjects, brain development in healthy cohort, multi-modal imaging 
 
 **Keywords**: cross-sectional, pediatric, adolescent, young adult, T1w, T2w, dMRI, rsFMRI, tFMRI, ASL 
 
@@ -79,6 +79,10 @@ Extension of previous set. Only training data available.
 
 **Keywords**: pediatric, atlas, 3D, fMRI, automated, cerebral, AAL labels 
 
+### [**Calgary Preschool:**](https://osf.io/axz5r/files/osfstorage)
+2-8 years, rsfMRI, DTI, anatomical imaging, arterial spin labeling to create baseline data used to understand cognitive and behavioral development.d
+
+**Keywords**: pediatric, rsfMRI, dMRI, anatomical, labeling, development
 
 ## Main Fetal / Pediatric Atlas List
 
@@ -107,23 +111,17 @@ From 95 subjects using longitudinal images. Intensity model, segmentation model,
 
 **Keywords**: neonates, atlas, T1w, T2w, segmentation, probability, intensity 
 
-### [**NIH PEDS:**](https://pubmed.ncbi.nlm.nih.gov/16376577/)
+### [**NIH PEDS:**](https://nda.nih.gov/edit_collection.html?id=1151nihpd/info/index.html)
 7 days - 18 years, 500 subjects. Longitudinal/multimodal MRI transferred to automated MRI segmentation.
 
 **Keywords**: pediatric, T1w, T2w, dMRI, atlas, database, automated, multi-center, statistical
 
 
-
-### [**Brain Development 2:**](https://brain-development.org/brain-atlases/neonatal-brain-atlases/)
-29-44 weeks, T2w. segmentations of 153 neonatal subjects. 
+### [**Brain Development 2:**](https://brain-development.org/brain-atlases/neonatal-brain-atlases/) 
+First data set. 29-44 weeks, T2w. segmentations of 153 neonatal subjects. 
 
 **Keywords**: neonates, T2w, segmentation, kernel method, intensity, probability maps, atlas 
 
-
-### [**Calgary Preschool:**](https://osf.io/axz5r/files/osfstorage)
-2-8 years, rsfMRI, DTI, anatomical imaging, arterial spin labeling to create baseline data used to understand cognitive and behavioral development.d
-
-**Keywords**: pediatric, rsfMRI, dMRI, anatomical, labeling, development, atlas 
 
 ### [**OpenNeuro:**](https://openneuro.org/datasets/ds000228/versions/1.1.0/download)
 3-12 years, MRI. Reverse correlation analysis conducted in adult and children samples using average response in ToM brain regions and pain matrix. 
@@ -136,7 +134,7 @@ From 95 subjects using longitudinal images. Intensity model, segmentation model,
 **Keywords**: atlas, dMRI, MRS, pediatric, MR spectroscopy, development 
 
 ### [**NIST:**](https://www.bic.mni.mcgill.ca/ServicesAtlases/NIHPD-obj1#download)
-4.5-18.5 years, T1 applied to T2. Unbiased standard magnetic resonance imaging template brain volume for pediatric data. 
+4.5-18.5 years, T1 applied to T2. Unbiased standard magnetic resonance imaging template brain volume for pediatric data. Volumes created from NIH-Peds data.
 
 **Keywords**: T1w, T2w, template, atlas, pediatric 
 
