@@ -84,6 +84,21 @@ Extension of previous set. Only training data available.
 
 **Keywords**: pediatric, rsfMRI, dMRI, anatomical, labeling, development
 
+### [**ABIDE II:**](http://fcon_1000.projects.nitrc.org/indi/abide/abide_II.html)
+6-64 years, resting-state & structural fMRI, 19 sites. Two collections include longitudinal samples of data collected from 38 individuals at two time points (1-4 year interval). 
+
+**Keywords**: large age range, rsfMRI, multi-site, longitudinal
+
+### [**ABIDE I:**](http://fcon_1000.projects.nitrc.org/indi/abide/abide_I.html)
+7-64 years (median 14 years), resting-state fMRI and structural MRI across multiple sites. similar to ABIDE II above. data available on website. 
+
+**Keywords**: fMRI, structural, multiple sites
+
+### [**ABCD:**](https://abcdstudy.org/about/)
+9-10 years, T1 images of four different task studies. Data not yet available. 
+
+**Keywords**: T1w, pediatric, tasks, atlas, 4D 
+
 ## Main Fetal / Pediatric Atlas List
 
 ### [IMAGINE Fetal Brain Atlas](https://form.jotform.com/91364382958166)
@@ -138,25 +153,11 @@ First data set. 29-44 weeks, T2w. segmentations of 153 neonatal subjects.
 
 **Keywords**: T1w, T2w, template, atlas, pediatric 
 
-### [**ABIDE II:**](http://fcon_1000.projects.nitrc.org/indi/abide/abide_II.html)
-6-64 years, resting-state & structural fMRI, 19 sites. Two collections include longitudinal samples of data collected from 38 individuals at two time points (1-4 year interval). 
-
-**Keywords**: large age range, rsfMRI, multi-site, longitudinal, atlas 
-
 ### [**IBSR:**](https://www.nitrc.org/projects/ibsr)
 7+ years, T1 in talairach orientation, manually-guided and labeled expert segmentation results along with magnetic resonance brain image data. 
 
 **Keywords**: T1w, pediatric, segmentation, manual, atlas
 
-### [**ABIDE I:**](http://fcon_1000.projects.nitrc.org/indi/abide/abide_I.html)
-7-64 years (median 14 years), resting-state fMRI and structural MRI across multiple sites. similar to ABIDE II above. data available on website. 
-
-**Keywords**: fMRI, structural, multiple sites, atlas 
-
-### [**ABCD:**](https://abcdstudy.org/about/)
-9-10 years, T1 images of four different task studies. Data not yet available. 
-
-**Keywords**: T1w, pediatric, tasks, atlas, 4D 
 
 ### [**Dev-CoG:**](http://devcog.mrn.org/)
 9-15 years, multimodal/task/longitudinal fMRI, MEG, DNA, behaviour and genetics analyses. Project recent and still ongoing. 
