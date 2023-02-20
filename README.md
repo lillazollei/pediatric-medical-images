@@ -39,12 +39,12 @@ longitudinal infant data that will be collected over the first ten years of life
 ### [HCP-D v2.0](https://www.humanconnectome.org/study/hcp-lifespan-development/data-releases)
 5-21 years, 652 subjects, brain development in healthy cohort, multi-modal imaging 
 
-**Keywords**: cross-sectional, pediatric, adolescent, young adult, T1w, T2w, dMRI, rsFMRI, tFMRI, ASL 
+**Keywords**: cross-sectional, pediatric, adolescent, T1w, T2w, dMRI, rsFMRI, tFMRI
 
 ### [HBN v10.0](http://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/sharing_neuro.html#Direct%20Down)
 Healthy Brain Network from the Child Mind Institute, 5-21 years, typical NYC population, neuroimaging and phenotypic data, goal N = 10000
 
-**Keywords**: pediatric, adolescent, young adult, T1w, T2w, dMRI, rsFMRI, EEG, IN PROGRESS 
+**Keywords**: pediatric, adolescent, T1w, T2w, dMRI, rsFMRI, EEG, IN PROGRESS 
 
 ### [**Banfi-OpenNeuro:**](https://openneuro.org/datasets/ds003126/versions/1.2.0/download)
 8-13 Years, T1w and 3 Tesla fMRI data derived for measuring reading-related functional activity, N = 58 subjects. 
@@ -154,7 +154,7 @@ spatiotemporal atlas, 23 to 37 weeks of gestation, from N = 80 subjects, T2w tem
 ### [Imperial Brain Development (Murgasova)](https://brain-development.org/brain-atlases/neonatal-brain-atlases/neonatal-brain-atlas-murgasova/) 
 From N = 153 newborns (29 to 44 weeks of gestation), six labels (cortex, white matter, subcortical gray matter, brainstem and cerebellum); average intensity template as well as the corresponding tissue probability map; kernel-based smoothing method
 
-**Keywords**: newborns, segmentation, probability maps
+**Keywords**: newborns, segmentation, probability
 
 ### [**NIST NIHPD:**](https://www.bic.mni.mcgill.ca/ServicesAtlases/NIHPD-obj1#download)
 In 4.5-18.5 year age range, average T1w, T2w, PDw maps normalized between 0 and 100 and tissue probability maps, with values between 0 and 1. Source: NIHPD Objective 1
