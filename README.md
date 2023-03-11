@@ -141,10 +141,6 @@ From 95 subjects using longitudinal images. Intensity model, segmentation model,
 
 **Keywords**: neonates, atlas, T1w, T2w, segmentation, probability, intensity 
 
-### [**NIH PEDS:**](https://nda.nih.gov/edit_collection.html?id=1151nihpd/info/index.html)
-7 days - 18 years, 500 subjects. Longitudinal/multimodal MRI transferred to automated MRI segmentation.
-
-**Keywords**: pediatric, T1w, T2w, dMRI, atlas, database, automated, multi-center, statistical
 
 ### [**NIST NIHPD:**](https://www.bic.mni.mcgill.ca/ServicesAtlases/NIHPD-obj1#download)
 In 4.5-18.5 year age range, average T1w, T2w, PDw maps normalized between 0 and 100 and tissue probability maps, with values between 0 and 1. Source: NIHPD Objective 1
