@@ -116,10 +116,20 @@ approximately 550 children, aged at first scan from 10 days to 18 years and 3 mo
 
 **Keywords**: fetal, atlas, labels, automated dMRI, T2w
 
+### [Fetal Brain Development](https://brain-development.org/brain-atlases/fetal-brain-atlases/)
+spatiotemporal atlas, 23 to 37 weeks of gestation, from N = 80 subjects, T2w templates and tissue probability maps (brain mask, cortex, hemispheres, csf and ventricles)
+
+**Keywords**: fetal, atlas, T2w, probability
+
 ### [Imperial Brain Development](https://brain-development.org/brain-atlases/neonatal-brain-atlases/neonatal-brain-atlas-serag/) 
 spatiotemporal 4D atlas representing 28 to 44 weeks post-menstrual age at time of scan from N = 204 premature subjects 
 
 **Keywords**: postnatal, premature, atlas, T1w, T2w  
+
+### [Imperial Brain Development (Murgasova)](https://brain-development.org/brain-atlases/neonatal-brain-atlases/neonatal-brain-atlas-murgasova/) 
+From N = 153 newborns (29 to 44 weeks of gestation), six labels (cortex, white matter, subcortical gray matter, brainstem and cerebellum); average intensity template as well as the corresponding tissue probability map; kernel-based smoothing method
+
+**Keywords**: newborns, segmentation, probability
 
 ### [Imperial Brain Development (Makropoulos)](https://brain-development.org/brain-atlases/neonatal-brain-atlases/neonatal-brain-atlas-makropoulos/) 
 spatio-temporal structural atlas for the neonatal brain; 87 labelled structures; from N=420 brain MR images, using ALBERTS and automated segmentation
@@ -136,27 +146,12 @@ From 95 subjects using longitudinal images. Intensity model, segmentation model,
 
 **Keywords**: pediatric, T1w, T2w, dMRI, atlas, database, automated, multi-center, statistical
 
+### [**NIST NIHPD:**](https://www.bic.mni.mcgill.ca/ServicesAtlases/NIHPD-obj1#download)
+In 4.5-18.5 year age range, average T1w, T2w, PDw maps normalized between 0 and 100 and tissue probability maps, with values between 0 and 1. Source: NIHPD Objective 1
+ 
+**Keywords**: T1w, T2w, tissue, template, pediatric, adolescent, atlas
 
 ### [**Dev-CoG:**](http://devcog.mrn.org/)
 9-15 years, multimodal/task/longitudinal fMRI, MEG, DNA, behaviour and genetics analyses. Project recent and still ongoing. 
 
 **Keywords**: pediatric, adolescent, atlas, fMRI, MEG, DNA, longitudinal, multimodal, quantification 
-
-#####################################
-## Main Fetal / Pediatric Templates List
-#####################################
-
-### [Fetal Brain Development](https://brain-development.org/brain-atlases/fetal-brain-atlases/)
-spatiotemporal atlas, 23 to 37 weeks of gestation, from N = 80 subjects, T2w templates and tissue probability maps (brain mask, cortex, hemispheres, csf and ventricles)
-
-**Keywords**: fetal, atlas, T2w, probability
-
-### [Imperial Brain Development (Murgasova)](https://brain-development.org/brain-atlases/neonatal-brain-atlases/neonatal-brain-atlas-murgasova/) 
-From N = 153 newborns (29 to 44 weeks of gestation), six labels (cortex, white matter, subcortical gray matter, brainstem and cerebellum); average intensity template as well as the corresponding tissue probability map; kernel-based smoothing method
-
-**Keywords**: newborns, segmentation, probability
-
-### [**NIST NIHPD:**](https://www.bic.mni.mcgill.ca/ServicesAtlases/NIHPD-obj1#download)
-In 4.5-18.5 year age range, average T1w, T2w, PDw maps normalized between 0 and 100 and tissue probability maps, with values between 0 and 1. Source: NIHPD Objective 1
- 
-**Keywords**: T1w, T2w, tissue, template, pediatric, adolescent, atlas
