@@ -14,12 +14,12 @@ MRI data of 80 subjects from 2 sources, labels are available on a subset
 
 **Keywords**: fetal, BIDS, T2w, labels
 
-### [dHCP 3rd release](https://metrics-lab.github.io/dhcp-download/)
+### [dHCP 3rd release + fetal](https://nda.nih.gov/edit_collection.html?id=3955)
 <!-- **[1st Release](http://www.developingconnectome.org/project/data-release-user-guide/)** -->
 <!-- **[2nd Release](http://www.developingconnectome.org/second-data-release/)** -->
-885+ postnatal brain MRI (T1w,T2w,dMRI and rsfMRI) of infants; processed with own pipeline    
+885+ postnatal brain MRI (T1w,T2w,dMRI and rsfMRI) of infants and fetal subjects; processed with own pipeline    
 
-**Keywords**: longitudinal, newborn, large, premature, postnatal, T1w, T2w, dMRI, rsfMRI, labels
+**Keywords**: longitudinal, newborn, fetal; large, premature, postnatal, T1w, T2w, dMRI, rsfMRI, labels
 
 ### [BCP](https://nda.nih.gov/edit_collection.html?id=2848)
 hybrid accelerated longitudinal and cross-sectional, 0-5 years, 500 subjects
